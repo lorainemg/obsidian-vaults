@@ -4,6 +4,7 @@
   "switcher",
   "graph",
   "backlink",
+  "outgoing-link",
   "tag-pane",
   "page-preview",
   "templates",
@@ -12,7 +13,12 @@
   "slash-command",
   "editor-status",
   "markdown-importer",
+  "random-note",
+  "outline",
   "word-count",
+  "slides",
   "open-with-default-app",
-  "file-recovery"
+  "workspaces",
+  "file-recovery",
+  "sync"
 ]

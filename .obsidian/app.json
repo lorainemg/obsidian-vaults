@@ -1,5 +1,6 @@
 {
-  "defaultViewMode": "preview",
+  "defaultViewMode": "source",
   "spellcheck": false,
-  "promptDelete": false
+  "promptDelete": false,
+  "legacyEditor": false
 }
