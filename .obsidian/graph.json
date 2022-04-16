@@ -13,6 +13,20 @@
         "a": 1,
         "rgb": 5984992
       }
+    },
+    {
+      "query": "path:Templates",
+      "color": {
+        "a": 1,
+        "rgb": 16777215
+      }
+    },
+    {
+      "query": "file:README",
+      "color": {
+        "a": 1,
+        "rgb": 0
+      }
     }
   ],
   "collapse-display": true,
@@ -26,5 +40,5 @@
   "linkStrength": 1,
   "linkDistance": 250,
   "scale": 1,
-  "close": true
+  "close": false
 }
