@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "SQL Data Science/Etapas y Operaciones en el Ciclo de Vida de los Datos/Primer Paso.md",
-            "mode": "preview"
+            "file": "SQL Data Science/Etapas y Operaciones en el Ciclo de Vida de los Datos/Actividades Realizadas en EDA.md",
+            "mode": "source"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SQL Data Science/Etapas y Operaciones en el Ciclo de Vida de los Datos/Primer Paso.md",
+                "file": "SQL Data Science/Etapas y Operaciones en el Ciclo de Vida de los Datos/Actividades Realizadas en EDA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,6 +99,7 @@
   },
   "active": "d8d82478e2e9b3fd",
   "lastOpenFiles": [
+    "SQL Data Science/Etapas y Operaciones en el Ciclo de Vida de los Datos/Actividades Realizadas en EDA.md",
     "SQL Data Science/Etapas y Operaciones en el Ciclo de Vida de los Datos/Primer Paso.md",
     "SQL Data Science/Etapas y Operaciones en el Ciclo de Vida de los Datos/Primer Paso para el Análisis de Datos.md",
     "Templates/Untitled.md",
