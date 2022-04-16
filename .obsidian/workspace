@@ -7,8 +7,12 @@
         "id": "d8d82478e2e9b3fd",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "SQL Data Science/Etapas y Operaciones en el Ciclo de Vida de los Datos/Actividades Realizadas en EDA.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "SQL Data Science/Etapas y Operaciones en el Ciclo de Vida de los Datos/Actividades Realizadas en EDA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,7 +97,8 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "linksCollapsed": true,
+                "file": "SQL Data Science/Etapas y Operaciones en el Ciclo de Vida de los Datos/Actividades Realizadas en EDA.md",
+                "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
@@ -102,11 +108,37 @@
             "type": "leaf",
             "state": {
               "type": "outline",
+              "state": {
+                "file": "SQL Data Science/Etapas y Operaciones en el Ciclo de Vida de los Datos/Actividades Realizadas en EDA.md"
+              }
+            }
+          },
+          {
+            "id": "a1e082276a17ae25",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "a321b5cca9f02860",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
+          },
+          {
+            "id": "aa2a33b4b1ebf25b",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
               "state": {}
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -114,8 +146,8 @@
   },
   "active": "d8d82478e2e9b3fd",
   "lastOpenFiles": [
-    "SQL Data Science/Etapas y Operaciones en el Ciclo de Vida de los Datos/Primer Paso para el Análisis de Datos.md",
     "SQL Data Science/Etapas y Operaciones en el Ciclo de Vida de los Datos/Actividades Realizadas en EDA.md",
+    "SQL Data Science/Etapas y Operaciones en el Ciclo de Vida de los Datos/Primer Paso para el Análisis de Datos.md",
     "SQL Data Science/Etapas y Operaciones en el Ciclo de Vida de los Datos/Importancia de EDA.md",
     "SQL Data Science/Etapas y Operaciones en el Ciclo de Vida de los Datos/Tareas de la Limpieza de Datos.md",
     "README.md",

@@ -12,13 +12,11 @@
   "command-palette",
   "slash-command",
   "editor-status",
-  "markdown-importer",
   "random-note",
   "outline",
   "word-count",
   "slides",
   "open-with-default-app",
-  "workspaces",
   "file-recovery",
   "sync"
 ]

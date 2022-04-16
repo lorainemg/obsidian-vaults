@@ -1,4 +1,10 @@
 [
-  "templater-obsidian",
-  "obsidian-outliner"
+  "obsidian-outliner",
+  "obsidian-kanban",
+  "obsidian-mind-map",
+  "table-editor-obsidian",
+  "calendar",
+  "obsidian-checklist-plugin",
+  "cm-editor-syntax-highlight-obsidian",
+  "obsidian-git"
 ]
