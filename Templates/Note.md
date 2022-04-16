@@ -1,4 +1,5 @@
-Created at: @today
-# [[Title]]
-<% tp.date.now() %>
-## References
+# {{title}}
+Creado: {{date}} {{time}}
+Tags: #
+
+## Referencias
