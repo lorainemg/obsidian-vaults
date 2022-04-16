@@ -1,6 +1,6 @@
 # Primer Paso para el Análisis de Datos
 Creado: 2022-04-15 23:54
-Tags: #sql, #data-science, #eda
+Tags: #sql, #data-science, #eda, #data-analysis
 
 El primer paso para el análisis de datos es el **Análisis Exploratorio de Datos** (*Exploratory Data Analysis, EDA*), también llamado ***data profiling***. En este paso, se trata de aprender las características básicas de los datos y cualquier objeto, evento u observación que describe. 
 
