@@ -7,7 +7,7 @@
         "id": "a2799799891d2df4",
         "type": "leaf",
         "state": {
-          "type": "graph",
+          "type": "empty",
           "state": {}
         }
       }
@@ -39,7 +39,7 @@
                 "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
-                "collapseAll": false,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
@@ -84,6 +84,7 @@
   },
   "active": "a2799799891d2df4",
   "lastOpenFiles": [
-    "Test Note.md"
+    "SQL For Data Science/Test Note.md",
+    "SQL For Data Science/Untitled.md"
   ]
 }
