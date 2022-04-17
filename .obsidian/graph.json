@@ -4,9 +4,16 @@
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": true,
-  "showOrphans": true,
+  "showOrphans": false,
   "collapse-color-groups": false,
   "colorGroups": [
+    {
+      "query": "tag:#topic-names",
+      "color": {
+        "a": 1,
+        "rgb": 16711680
+      }
+    },
     {
       "query": "tag:#sql",
       "color": {
@@ -27,17 +34,10 @@
         "a": 1,
         "rgb": 0
       }
-    },
-    {
-      "query": "tag:#topic-names",
-      "color": {
-        "a": 1,
-        "rgb": 16711680
-      }
     }
   ],
-  "collapse-display": true,
-  "showArrow": true,
+  "collapse-display": false,
+  "showArrow": false,
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1.03044943820225,
   "lineSizeMultiplier": 0.633700842696629,
@@ -46,6 +46,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 1.152980582512176,
-  "close": true
+  "scale": 0.8258647187875034,
+  "close": false
 }

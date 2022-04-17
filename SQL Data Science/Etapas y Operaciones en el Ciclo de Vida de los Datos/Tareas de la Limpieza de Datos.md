@@ -11,5 +11,4 @@ Entre las tareas realizadas durante la limpieza de datos (*data cleaning*) se en
 - Encontrar y manejar ***datos duplicados***
 
 ## Referencias
-[[Importancia de EDA]]
 [[Actividades Realizadas en EDA]]

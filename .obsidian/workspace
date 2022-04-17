@@ -36,7 +36,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#data-types",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -152,15 +152,15 @@
   },
   "active": "8cbce48b1caea0fd",
   "lastOpenFiles": [
+    "SQL Data Science/Tipos de Datasets/Tipos de Datos.md",
     "SQL Data Science/Etapas y Operaciones en el Ciclo de Vida de los Datos/Etapas y Operaciones en el Ciclo de Vida de los Datos.md",
-    "SQL Data Science/Etapas y Operaciones en el Ciclo de Vida de los Datos/Primer Paso para el Análisis de Datos.md",
-    "SQL Data Science/Etapas y Operaciones en el Ciclo de Vida de los Datos/Actividades Realizadas en EDA.md",
-    "SQL Data Science/Etapas y Operaciones en el Ciclo de Vida de los Datos/Importancia de EDA.md",
-    "SQL Data Science/Etapas y Operaciones en el Ciclo de Vida de los Datos/Tareas de la Limpieza de Datos.md",
     "SQL Data Science/Etapas y Operaciones en el Ciclo de Vida de los Datos/Tareas del Preprocesamiento de Datos.md",
-    "Templates/Note.md",
+    "SQL Data Science/Etapas y Operaciones en el Ciclo de Vida de los Datos/Importancia de EDA.md",
     "Templates/Topic Note.md",
-    "2022-04-15.md",
-    "README.md"
+    "SQL Data Science/Tipos de Datasets/Tipos de Datasets.md",
+    "SQL Data Science/Tipos de Datasets/Dataset.md",
+    "SQL Data Science/Tipos de Datasets/Elemento de un Dataset.md",
+    "SQL Data Science/Tipos de Datasets/Atributos Simples.md",
+    "SQL Data Science/Tipos de Datasets/Clasificación de Datasets.md"
   ]
 }

@@ -5,7 +5,7 @@ Topic: [[Etapas y Operaciones en el Ciclo de Vida de los Datos]]
 
 ---
 
-Entre las actividades que involucra la realización de EDA, se encuentran acciones como clasificar el dataset, sacar una idea de los atributos involucrados, y para cada atributo, buscar tener una idea de la distribución de datos a través de técnicas de **visualización**, o **herramientas descriptivas**, como histogramas y medidas de centralidad o dispersión.
+Entre las actividades que involucra la realización de EDA, se encuentran acciones como clasificar el dataset, sacar una idea de los atributos involucrados, y para cada atributo, buscar tener una idea de la distribución de datos a través de técnicas de **visualización**, o **herramientas descriptivas**, como histogramas y medidas de centralidad o dispersión. También se incluyen las tareas relacionadas con la limpieza y el preprocesamiento de datos.
 
 ## Referencias
 [[Primer Paso para el Análisis de Datos]]
