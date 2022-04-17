@@ -1,6 +1,9 @@
 # Tareas del Preprocesamiento de Datos
 Creado: 2022-04-16 00:02
 Tags: #sql, #data-science, #eda, #data-preprocessing
+Topic: [[Etapas y Operaciones en el Ciclo de Vida de los Datos]]
+
+---
 
 Las técnicas típicas para realizar el preprocesamiento de datos (o preparación de datos) incluyen:
 - Transformaciones para poner los valores de los datos en un cierto formato o en un cierto cuadro de referencia. Esto involucra operaciones como **normalización**, **escalado**, o **estandarización**

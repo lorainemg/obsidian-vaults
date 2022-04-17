@@ -4,15 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "d8d82478e2e9b3fd",
+        "id": "8cbce48b1caea0fd",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "SQL Data Science/Etapas y Operaciones en el Ciclo de Vida de los Datos/Tareas del Preprocesamiento de Datos.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -69,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SQL Data Science/Etapas y Operaciones en el Ciclo de Vida de los Datos/Tareas del Preprocesamiento de Datos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,7 +92,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SQL Data Science/Etapas y Operaciones en el Ciclo de Vida de los Datos/Tareas del Preprocesamiento de Datos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -108,9 +102,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "SQL Data Science/Etapas y Operaciones en el Ciclo de Vida de los Datos/Tareas del Preprocesamiento de Datos.md"
-              }
+              "state": {}
             }
           },
           {
@@ -126,6 +118,14 @@
             "type": "leaf",
             "state": {
               "type": "git-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "44ce34f388e36519",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
               "state": {}
             }
           }
@@ -150,17 +150,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "d8d82478e2e9b3fd",
+  "active": "8cbce48b1caea0fd",
   "lastOpenFiles": [
-    "SQL Data Science/Etapas y Operaciones en el Ciclo de Vida de los Datos/Tareas del Preprocesamiento de Datos.md",
-    "SQL Data Science/Etapas y Operaciones en el Ciclo de Vida de los Datos/Tareas de la Limpieza de Datos.md",
+    "SQL Data Science/Etapas y Operaciones en el Ciclo de Vida de los Datos/Etapas y Operaciones en el Ciclo de Vida de los Datos.md",
     "SQL Data Science/Etapas y Operaciones en el Ciclo de Vida de los Datos/Primer Paso para el Análisis de Datos.md",
-    "SQL Data Science/Etapas y Operaciones en el Ciclo de Vida de los Datos/Importancia de EDA.md",
     "SQL Data Science/Etapas y Operaciones en el Ciclo de Vida de los Datos/Actividades Realizadas en EDA.md",
+    "SQL Data Science/Etapas y Operaciones en el Ciclo de Vida de los Datos/Importancia de EDA.md",
+    "SQL Data Science/Etapas y Operaciones en el Ciclo de Vida de los Datos/Tareas de la Limpieza de Datos.md",
+    "SQL Data Science/Etapas y Operaciones en el Ciclo de Vida de los Datos/Tareas del Preprocesamiento de Datos.md",
+    "Templates/Note.md",
+    "Templates/Topic Note.md",
     "2022-04-15.md",
-    "README.md",
-    "SQL Data Science/Etapas y Operaciones en el Ciclo de Vida de los Datos/Primer Paso.md",
-    "Templates/Untitled.md",
-    "Templates/Note.md"
+    "README.md"
   ]
 }
