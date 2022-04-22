@@ -4,11 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "8cbce48b1caea0fd",
+        "id": "0bc4adb6b8fe11b7",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "SQL Data Science/Tablas de Bases de Datos/Llaves Primarias, IDs automáticos, Identificadores Únicos.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "SQL Data Science/Tablas de Bases de Datos/Llaves Primarias, IDs automáticos, Identificadores Únicos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,6 +97,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "SQL Data Science/Tablas de Bases de Datos/Llaves Primarias, IDs automáticos, Identificadores Únicos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -102,7 +108,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "SQL Data Science/Tablas de Bases de Datos/Llaves Primarias, IDs automáticos, Identificadores Únicos.md"
+              }
             }
           },
           {
@@ -150,17 +158,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "8cbce48b1caea0fd",
+  "active": "0bc4adb6b8fe11b7",
   "lastOpenFiles": [
-    "SQL Data Science/Tipos de Datasets/Tipos de Datos.md",
-    "SQL Data Science/Etapas y Operaciones en el Ciclo de Vida de los Datos/Etapas y Operaciones en el Ciclo de Vida de los Datos.md",
-    "SQL Data Science/Etapas y Operaciones en el Ciclo de Vida de los Datos/Tareas del Preprocesamiento de Datos.md",
-    "SQL Data Science/Etapas y Operaciones en el Ciclo de Vida de los Datos/Importancia de EDA.md",
-    "Templates/Topic Note.md",
-    "SQL Data Science/Tipos de Datasets/Tipos de Datasets.md",
-    "SQL Data Science/Tipos de Datasets/Dataset.md",
+    "SQL Data Science/Tablas de Bases de Datos/Llaves Primarias, IDs automáticos, Identificadores Únicos.md",
+    "SQL Data Science/Tablas de Bases de Datos/Tratar con Tablas de Bases de Datos.md",
     "SQL Data Science/Tipos de Datasets/Elemento de un Dataset.md",
-    "SQL Data Science/Tipos de Datasets/Atributos Simples.md",
-    "SQL Data Science/Tipos de Datasets/Clasificación de Datasets.md"
+    "SQL Data Science/Tipos de Datasets/Tipos de Datos.md",
+    "SQL Data Science/Tipos de Datasets/Tipos de Datasets.md",
+    "SQL Data Science/Tipos de Datasets/Atributos de un Dataset.md",
+    "SQL Data Science/Tablas de Bases de Datos/Tratar con Bases de Datos.md",
+    "SQL Data Science/Tablas de Bases de Datos/Tablas de Bases de Datos.md",
+    "SQL Data Science/Tipos de Datasets/Dataset.md",
+    "SQL Data Science/Etapas y Operaciones en el Ciclo de Vida de los Datos/Tareas del Preprocesamiento de Datos.md"
   ]
 }
