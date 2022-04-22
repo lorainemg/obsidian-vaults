@@ -2,5 +2,7 @@
   "defaultViewMode": "source",
   "spellcheck": false,
   "promptDelete": false,
-  "legacyEditor": false
+  "legacyEditor": false,
+  "foldIndent": true,
+  "foldHeading": true
 }

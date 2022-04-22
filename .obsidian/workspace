@@ -7,12 +7,8 @@
         "id": "0bc4adb6b8fe11b7",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "SQL Data Science/Tablas de Bases de Datos/Tablas de Bases de Datos.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -69,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SQL Data Science/Tablas de Bases de Datos/Tablas de Bases de Datos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,7 +92,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SQL Data Science/Tablas de Bases de Datos/Tablas de Bases de Datos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -108,9 +102,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "SQL Data Science/Tablas de Bases de Datos/Tablas de Bases de Datos.md"
-              }
+              "state": {}
             }
           },
           {
@@ -160,15 +152,15 @@
   },
   "active": "0bc4adb6b8fe11b7",
   "lastOpenFiles": [
-    "SQL Data Science/Tablas de Bases de Datos/Tablas de Bases de Datos.md",
-    "SQL Data Science/Tablas de Bases de Datos/Tabla de Datos Adecuada.md",
-    "SQL Data Science/Tablas de Bases de Datos/Llaves Primarias, IDs automáticos, Identificadores Únicos.md",
-    "SQL Data Science/Tablas de Bases de Datos/Tratar con Tablas de Bases de Datos.md",
-    "SQL Data Science/Tipos de Datasets/Elemento de un Dataset.md",
-    "SQL Data Science/Tipos de Datasets/Tipos de Datos.md",
-    "SQL Data Science/Tipos de Datasets/Tipos de Datasets.md",
-    "SQL Data Science/Tipos de Datasets/Atributos de un Dataset.md",
+    "SQL Data Science/SQL Data Science.md",
     "SQL Data Science/Tablas de Bases de Datos/Tratar con Bases de Datos.md",
-    "SQL Data Science/Tipos de Datasets/Dataset.md"
+    "SQL Data Science/Tablas de Bases de Datos/Tabla de Datos Adecuada.md",
+    "SQL Data Science/Etapas y Operaciones en el Ciclo de Vida de los Datos/Tareas de la Limpieza de Datos.md",
+    "SQL Data Science/Etapas y Operaciones en el Ciclo de Vida de los Datos/Primer Paso para el Análisis de Datos.md",
+    "SQL Data Science/Etapas y Operaciones en el Ciclo de Vida de los Datos/Etapas y Operaciones en el Ciclo de Vida de los Datos.md",
+    "SQL Data Science/Tipos de Datasets/Tipos de Datasets.md",
+    "SQL Data Science/Tipos de Datasets/Tipos de Datos.md",
+    "SQL Data Science/Tablas de Bases de Datos/Tablas de Bases de Datos.md",
+    "Templates/Topic Note.md"
   ]
 }

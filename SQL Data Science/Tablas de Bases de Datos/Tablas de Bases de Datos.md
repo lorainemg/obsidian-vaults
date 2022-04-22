@@ -1,5 +1,6 @@
 Creado: 2022-04-21 23:08
-Tags: #topic-names, #sql, #data-science, #code
+Tags: #topic-names, #sql, #data-science, #code 
+Topic: [[SQL Data Science]]
 
 ## Key Topics
 ---
