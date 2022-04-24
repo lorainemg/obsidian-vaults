@@ -7,3 +7,4 @@ Tags: #topic-note
 - [[Tipos de Datasets]]
 - [[Tablas de Bases de Datos]]
 - [[Esquema de Bases de Datos]]
+- [[Otros Tipos de Datos]]

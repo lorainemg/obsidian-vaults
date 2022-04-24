@@ -7,12 +7,8 @@
         "id": "0bc4adb6b8fe11b7",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "SQL Data Science/05 - Otros Tipos de Datos/Datos en Forma de Grafos.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -69,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SQL Data Science/05 - Otros Tipos de Datos/Datos en Forma de Grafos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,7 +92,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SQL Data Science/05 - Otros Tipos de Datos/Datos en Forma de Grafos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -108,9 +102,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "SQL Data Science/05 - Otros Tipos de Datos/Datos en Forma de Grafos.md"
-              }
+              "state": {}
             }
           },
           {
@@ -160,15 +152,15 @@
   },
   "active": "0bc4adb6b8fe11b7",
   "lastOpenFiles": [
+    "SQL Data Science/SQL Data Science.md",
+    "SQL Data Science/05 - Otros Tipos de Datos/Otros Tipos de Datos.md",
+    "SQL Data Science/05 - Otros Tipos de Datos/Datos en Forma de Texto.md",
     "SQL Data Science/05 - Otros Tipos de Datos/Datos en Forma de Grafos.md",
     "SQL Data Science/05 - Otros Tipos de Datos/Datos Jerárquicos.md",
     "SQL Data Science/02 - Tipos de Datasets/Tipos de Datasets.md",
     "SQL Data Science/02 - Tipos de Datasets/Clasificación de Datasets.md",
     "SQL Data Science/04 - Esquema de Bases de Datos/Datos no Tabulares.md",
-    "SQL Data Science/05 - Otros Tipos de Datos/Otros Tipos de Datos.md",
-    "SQL Data Science/SQL Data Science.md",
     "SQL Data Science/04 - Esquema de Bases de Datos/Esquema de Bases de Datos.md",
-    "SQL Data Science/04 - Esquema de Bases de Datos/Representación de Relaciones en SQL.md",
-    "SQL Data Science/04 - Esquema de Bases de Datos/Relaciones.md"
+    "SQL Data Science/04 - Esquema de Bases de Datos/Representación de Relaciones en SQL.md"
   ]
 }
