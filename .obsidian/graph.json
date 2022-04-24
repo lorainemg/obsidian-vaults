@@ -11,14 +11,14 @@
       "query": "tag:#topic-note",
       "color": {
         "a": 1,
-        "rgb": 15133210
+        "rgb": 16764162
       }
     },
     {
       "query": "tag:#topic-names",
       "color": {
         "a": 1,
-        "rgb": 16711680
+        "rgb": 1948768
       }
     },
     {
@@ -53,6 +53,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.8567997301771842,
-  "close": false
+  "scale": 0.88013317276654,
+  "close": true
 }
