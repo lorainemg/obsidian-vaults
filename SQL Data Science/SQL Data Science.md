@@ -8,3 +8,4 @@ Tags: #topic-note
 - [[Tablas de Bases de Datos]]
 - [[Esquema de Bases de Datos]]
 - [[Otros Tipos de Datos]]
+- [[Cargar y Descargar Datos de una BD]]
