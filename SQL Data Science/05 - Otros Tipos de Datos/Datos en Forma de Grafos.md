@@ -1,6 +1,6 @@
 # Datos en Forma de Grafos
 Creado: 2022-04-23 23:09
-Tags: #sql, #data-science, #data 
+Tags: #sql, #data-science, #data, #code
 Topic: [[Otros Tipos de Datos]]
 
 ----

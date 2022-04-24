@@ -1,6 +1,6 @@
 # Representación de Relaciones en SQL
 Creado: 2022-04-23 22:58
-Tags: #sql, #data-science, #relantioships 
+Tags: #sql, #data-science, #relantioships, #code
 Topic: [[Esquema de Bases de Datos]]
 
 ----
