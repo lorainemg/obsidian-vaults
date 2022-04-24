@@ -6,3 +6,4 @@ Tags: #topic-note
 - [[Etapas y Operaciones en el Ciclo de Vida de los Datos]]
 - [[Tipos de Datasets]]
 - [[Tablas de Bases de Datos]]
+- [[Esquema de Bases de Datos]]

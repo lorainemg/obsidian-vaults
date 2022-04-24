@@ -3,3 +3,7 @@ Tags: #topic-names
 
 ## Key Topics
 ---
+[[Datos no Tabulares]]
+- [[Tratar con Datos no Tabulares]]
+[[Relaciones]]
+- [[Representación de Relaciones en SQL]]

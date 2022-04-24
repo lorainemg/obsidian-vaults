@@ -57,3 +57,4 @@ CREATE TABLE BUYS (
 ```
 
 ## Referencias
+[[Relaciones]]
