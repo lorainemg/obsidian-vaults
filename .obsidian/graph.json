@@ -25,7 +25,7 @@
       "query": "tag:#sql",
       "color": {
         "a": 1,
-        "rgb": 5984992
+        "rgb": 232191
       }
     },
     {
@@ -53,6 +53,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.5931955327585755,
-  "close": true
+  "scale": 0.6734945821993331,
+  "close": false
 }
