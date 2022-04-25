@@ -1,6 +1,6 @@
 # IN y BETWEEN
 Creado: 2022-04-24 20:10
-Tags: #sql, #data-science, #code
+Tags: #sql, #data-science, #code, #query 
 Topic: [[Consulta Básica de SQL]]
 
 ----
