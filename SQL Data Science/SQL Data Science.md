@@ -9,3 +9,4 @@ Tags: #topic-note
 - [[Esquema de Bases de Datos]]
 - [[Otros Tipos de Datos]]
 - [[Cargar y Descargar Datos de una BD]]
+- [[Consulta Básica de SQL]]
