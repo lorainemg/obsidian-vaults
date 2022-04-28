@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "SQL Data Science/07 - Consulta Básicas de SQL/CASE.md",
+            "file": "SQL Data Science/07 - Consulta Básicas de SQL/Consulta Básica de SQL.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SQL Data Science/07 - Consulta Básicas de SQL/CASE.md",
+                "file": "SQL Data Science/07 - Consulta Básicas de SQL/Consulta Básica de SQL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,7 +97,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SQL Data Science/07 - Consulta Básicas de SQL/CASE.md",
+                "file": "SQL Data Science/07 - Consulta Básicas de SQL/Consulta Básica de SQL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SQL Data Science/07 - Consulta Básicas de SQL/CASE.md"
+                "file": "SQL Data Science/07 - Consulta Básicas de SQL/Consulta Básica de SQL.md"
               }
             }
           },
@@ -160,15 +160,15 @@
   },
   "active": "0bc4adb6b8fe11b7",
   "lastOpenFiles": [
-    "SQL Data Science/07 - Consulta Básicas de SQL/CASE.md",
-    "SQL Data Science/07 - Consulta Básicas de SQL/Producto Cartesiano y Joins.md",
-    "SQL Data Science/07 - Consulta Básicas de SQL/Seleccionar Filas y Columnas.md",
+    "SQL Data Science/07 - Consulta Básicas de SQL/Consulta Básica de SQL.md",
     "SQL Data Science/07 - Consulta Básicas de SQL/IN y BETWEEN.md",
     "SQL Data Science/07 - Consulta Básicas de SQL/SELECT.md",
-    "SQL Data Science/07 - Consulta Básicas de SQL/Consulta Básica de SQL.md",
-    "SQL Data Science/04 - Esquema de Bases de Datos/Representación de Relaciones en SQL.md",
-    "SQL Data Science/02 - Tipos de Datasets/Tipos de Datos.md",
-    "SQL Data Science/SQL Data Science.md",
-    "SQL Data Science/06 - Cargar y Descargar Datos de una BD/Cargar y Descargar Datos de una BD.md"
+    "SQL Data Science/07 - Consulta Básicas de SQL/Producto Cartesiano y Joins.md",
+    "SQL Data Science/07 - Consulta Básicas de SQL/CASE.md",
+    "SQL Data Science/06 - Cargar y Descargar Datos de una BD/Exportar Datos.md",
+    "SQL Data Science/06 - Cargar y Descargar Datos de una BD/Eliminar y Actualizar Datos Existentes.md",
+    "SQL Data Science/06 - Cargar y Descargar Datos de una BD/Cargar y Descargar Datos de una BD.md",
+    "SQL Data Science/05 - Otros Tipos de Datos/Otros Tipos de Datos.md",
+    "SQL Data Science/05 - Otros Tipos de Datos/Datos en Forma de Texto.md"
   ]
 }

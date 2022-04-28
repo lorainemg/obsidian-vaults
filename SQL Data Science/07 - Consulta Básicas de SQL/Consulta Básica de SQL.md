@@ -3,3 +3,8 @@ Tags: #topic-names
 
 ## Key Topics
 ---
+- [[SELECT]]
+	- [[IN y BETWEEN]]
+	- [[Seleccionar Filas y Columnas]]
+- [[Producto Cartesiano y Joins]]
+- [[CASE]]
