@@ -8,3 +8,6 @@ Tags: #topic-names
 	- [[Seleccionar Filas y Columnas]]
 - [[Producto Cartesiano y Joins]]
 - [[CASE]]
+- [[GROUP BY y HAVING]]
+- [[ORDER BY y LIMIT]]
+- [[WITH]]
