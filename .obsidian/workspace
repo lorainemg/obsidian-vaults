@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "0bc4adb6b8fe11b7",
+        "id": "fbddc4f5d13955d8",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "SQL Data Science/08 - Análisis Exploratorio de Datos (EDA=/Tipos Valores Faltantes.md",
+            "file": "SQL Data Science/08 - Análisis Exploratorio de Datos (EDA=/Notas Adicionales sobre los Valores Faltantes.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SQL Data Science/08 - Análisis Exploratorio de Datos (EDA=/Tipos Valores Faltantes.md",
+                "file": "SQL Data Science/08 - Análisis Exploratorio de Datos (EDA=/Notas Adicionales sobre los Valores Faltantes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,7 +97,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SQL Data Science/08 - Análisis Exploratorio de Datos (EDA=/Tipos Valores Faltantes.md",
+                "file": "SQL Data Science/08 - Análisis Exploratorio de Datos (EDA=/Notas Adicionales sobre los Valores Faltantes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SQL Data Science/08 - Análisis Exploratorio de Datos (EDA=/Tipos Valores Faltantes.md"
+                "file": "SQL Data Science/08 - Análisis Exploratorio de Datos (EDA=/Notas Adicionales sobre los Valores Faltantes.md"
               }
             }
           },
@@ -158,17 +158,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "0bc4adb6b8fe11b7",
+  "active": "fbddc4f5d13955d8",
   "lastOpenFiles": [
+    "SQL Data Science/08 - Análisis Exploratorio de Datos (EDA=/Notas Adicionales sobre los Valores Faltantes.md",
     "SQL Data Science/08 - Análisis Exploratorio de Datos (EDA=/Tipos Valores Faltantes.md",
+    "SQL Data Science/08 - Análisis Exploratorio de Datos (EDA=/Errores Tratados en la Limpieza de Datos.md",
+    "SQL Data Science/08 - Análisis Exploratorio de Datos (EDA=/Técnicas de Limpieza de Datos.md",
     "SQL Data Science/08 - Análisis Exploratorio de Datos (EDA=/Funciones para Tratar Strings.md",
     "SQL Data Science/01 - Etapas y Operaciones en el Ciclo de Vida de los Datos/Tareas del Preprocesamiento de Datos.md",
     "SQL Data Science/08 - Análisis Exploratorio de Datos (EDA=/Escalado y Normalización de los Datos.md",
-    "SQL Data Science/08 - Análisis Exploratorio de Datos (EDA=/Técnicas de Limpieza de Datos.md",
-    "SQL Data Science/08 - Análisis Exploratorio de Datos (EDA=/Errores Tratados en la Limpieza de Datos.md",
     "SQL Data Science/01 - Etapas y Operaciones en el Ciclo de Vida de los Datos/Etapas y Operaciones en el Ciclo de Vida de los Datos.md",
     "SQL Data Science/01 - Etapas y Operaciones en el Ciclo de Vida de los Datos/Tareas de la Limpieza de Datos.md",
-    "SQL Data Science/01 - Etapas y Operaciones en el Ciclo de Vida de los Datos/Primer Paso para el Análisis de Datos.md",
-    "SQL Data Science/08 - Análisis Exploratorio de Datos (EDA=/EDA.md"
+    "SQL Data Science/01 - Etapas y Operaciones en el Ciclo de Vida de los Datos/Primer Paso para el Análisis de Datos.md"
   ]
 }
