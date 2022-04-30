@@ -17,5 +17,4 @@ Una prueba puede descartar valores que no cumplen el patrón. Sin embargo, cuand
 Los dominios abiertos abarcan casi todas las medidas. En este dominio lo que es un valor 'malo' o 'equivocado' no es claro. Un análisis profundo de los valores existentes e información del dominio tiene que ser combinado para inferir el rango de los valores posibles y/o probables, e incluso con este conocimiento puede no ser suficiente para discernir entre valores 'buenos' o 'malos' en muchos casos.
 
 ## Referencias
-[[Actividades Realizadas en EDA]]
 [[Tareas de la Limpieza de Datos]]
