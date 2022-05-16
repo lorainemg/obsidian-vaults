@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "SQL Data Science/08 - Análisis Exploratorio de Datos (EDA=/Medias, Moda y Medianas.md",
+            "file": "SQL Data Science/08 - Análisis Exploratorio de Datos (EDA=/Calcular Propiedades de Atributos Catégoricos.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SQL Data Science/08 - Análisis Exploratorio de Datos (EDA=/Medias, Moda y Medianas.md",
+                "file": "SQL Data Science/08 - Análisis Exploratorio de Datos (EDA=/Calcular Propiedades de Atributos Catégoricos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,7 +97,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SQL Data Science/08 - Análisis Exploratorio de Datos (EDA=/Medias, Moda y Medianas.md",
+                "file": "SQL Data Science/08 - Análisis Exploratorio de Datos (EDA=/Calcular Propiedades de Atributos Catégoricos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SQL Data Science/08 - Análisis Exploratorio de Datos (EDA=/Medias, Moda y Medianas.md"
+                "file": "SQL Data Science/08 - Análisis Exploratorio de Datos (EDA=/Calcular Propiedades de Atributos Catégoricos.md"
               }
             }
           },
@@ -160,6 +160,7 @@
   },
   "active": "fbddc4f5d13955d8",
   "lastOpenFiles": [
+    "SQL Data Science/08 - Análisis Exploratorio de Datos (EDA=/Calcular Propiedades de Atributos Catégoricos.md",
     "SQL Data Science/08 - Análisis Exploratorio de Datos (EDA=/Medias, Moda y Medianas.md",
     "SQL Data Science/08 - Análisis Exploratorio de Datos (EDA=/Calcular Propiedades de Atributos Numéricos.md",
     "SQL Data Science/08 - Análisis Exploratorio de Datos (EDA=/Cómo se Aplica EDA.md",
@@ -168,7 +169,6 @@
     "SQL Data Science/08 - Análisis Exploratorio de Datos (EDA=/EDA.md",
     "SQL Data Science/09 - Limpieza de Datos/Limpieza de Datos.md",
     "SQL Data Science/09 - Limpieza de Datos/Errores Tratados en la Limpieza de Datos.md",
-    "SQL Data Science/09 - Limpieza de Datos/Funciones para Tratar Strings.md",
-    "SQL Data Science/09 - Limpieza de Datos/Tipos Valores Faltantes.md"
+    "SQL Data Science/09 - Limpieza de Datos/Funciones para Tratar Strings.md"
   ]
 }
