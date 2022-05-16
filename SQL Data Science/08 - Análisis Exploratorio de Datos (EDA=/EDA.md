@@ -3,3 +3,10 @@ Tags: #topic-names
 
 ## Key Topics
 ---
+- [[Objetivos Principales de EDA]]
+- [[Cómo se Aplica EDA]]
+	- [[Calcular Propiedades de Atributos Numéricos]]
+		- [[Medias, Moda y Medianas]]
+	- [[Calcular Propiedades de Atributos Catégoricos]]
+	- [[Análisis Multivariado]]
+- [[Ajuste de Distribución]]
