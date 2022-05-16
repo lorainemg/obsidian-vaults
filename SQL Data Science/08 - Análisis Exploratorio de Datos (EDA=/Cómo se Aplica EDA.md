@@ -11,11 +11,11 @@ Para realizar EDA en datos estructurados donde el esquema es conocido se procede
     - Para los __valores numéricos__, se encuentran medidas de tendencia central y dispersión. Además podemos querer encajar una distribución conocida a un dominio.
     
     En este punto, se deberá intentar identificar los errores potenciales en el dominio de cada atributo. Algunos de los errores principales son: **_valores faltantes_**, **_outliers_** y errores de tipo, etc.
--   Examinar las relaciones (o su falta de ellas) entre varios atributos. Esto es llamado análisis **multivariado** en la literatura estadística. Algunas técnicas para evaluar las conexiones potenciales son:
-    -   Para el análisis **categórico-categórico**: tablas de contingencia, test chi-square.
-    -   Para el análisis **categórico-numérico**: regresión logística, ANOVA.
-    -   Para el análisis **numérico-numérico**: covarianza, correlación, PMI, regresión lineal.
-    -   Para el análisis **ordinal-ordinal**: Spearman’s rank, Kendall’s rank,
+- Examinar las relaciones (o su falta de ellas) entre varios atributos. Esto es llamado análisis **multivariado** en la literatura estadística. Algunas técnicas para evaluar las conexiones potenciales son:
+    - Para el análisis **categórico-categórico**: tablas de contingencia, test chi-square.
+    - Para el análisis **categórico-numérico**: regresión logística, ANOVA.
+    - Para el análisis **numérico-numérico**: covarianza, correlación, PMI, regresión lineal.
+    - Para el análisis **ordinal-ordinal**: Spearman’s rank, Kendall’s rank,
 
 ## Referencias
 [[Actividades Realizadas en EDA]]
