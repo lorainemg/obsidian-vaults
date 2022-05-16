@@ -7,8 +7,12 @@
         "id": "fbddc4f5d13955d8",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "SQL Data Science/09 - Limpieza de Datos/Limpieza de Datos.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "SQL Data Science/09 - Limpieza de Datos/Limpieza de Datos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,6 +97,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "SQL Data Science/09 - Limpieza de Datos/Limpieza de Datos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -102,7 +108,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "SQL Data Science/09 - Limpieza de Datos/Limpieza de Datos.md"
+              }
             }
           },
           {
@@ -152,6 +160,8 @@
   },
   "active": "fbddc4f5d13955d8",
   "lastOpenFiles": [
+    "SQL Data Science/09 - Limpieza de Datos/Limpieza de Datos.md",
+    "SQL Data Science/09 - Limpieza de Datos/Técnicas de Limpieza de Datos.md",
     "SQL Data Science/SQL Data Science.md",
     "SQL Data Science/08 - Análisis Exploratorio de Datos (EDA=/EDA.md",
     "SQL Data Science/08 - Análisis Exploratorio de Datos (EDA=/Notas Adicionales sobre los Valores Faltantes.md",
@@ -159,8 +169,6 @@
     "SQL Data Science/08 - Análisis Exploratorio de Datos (EDA=/Errores Tratados en la Limpieza de Datos.md",
     "SQL Data Science/08 - Análisis Exploratorio de Datos (EDA=/Técnicas de Limpieza de Datos.md",
     "SQL Data Science/08 - Análisis Exploratorio de Datos (EDA=/Funciones para Tratar Strings.md",
-    "SQL Data Science/01 - Etapas y Operaciones en el Ciclo de Vida de los Datos/Tareas del Preprocesamiento de Datos.md",
-    "SQL Data Science/08 - Análisis Exploratorio de Datos (EDA=/Escalado y Normalización de los Datos.md",
-    "SQL Data Science/01 - Etapas y Operaciones en el Ciclo de Vida de los Datos/Etapas y Operaciones en el Ciclo de Vida de los Datos.md"
+    "SQL Data Science/01 - Etapas y Operaciones en el Ciclo de Vida de los Datos/Tareas del Preprocesamiento de Datos.md"
   ]
 }

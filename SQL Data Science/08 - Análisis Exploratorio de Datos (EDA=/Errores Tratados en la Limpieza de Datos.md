@@ -12,4 +12,4 @@ Los errores básicos que la mayoría está de acuerdo con que debe ser tratado e
 - **Datos duplicados**. A veces podemos tener un dataset donde diferentes registros en realidad son sobre la misma entidad, por lo tanto, son duplicados. En muchas situaciones, esto es considerado indeseable ya que puede sesgar los datos. Por lo tanto, detectar duplicados y deshacerse de ellos puede ser considerado una manera de mejorar la calidad de los datos.
 
 ## Referencias
-[[Técnicas de Limpieza de Datos]]
+[[SQL Data Science/08 - Análisis Exploratorio de Datos (EDA=/Técnicas de Limpieza de Datos]]
