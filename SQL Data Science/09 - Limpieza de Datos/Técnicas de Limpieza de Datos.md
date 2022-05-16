@@ -1,7 +1,7 @@
 # Técnicas de Limpieza de Datos
 Creado: 2022-04-29 22:20
 Tags: #sql, #data-science, #eda, #data-cleaning
-Topic: [[EDA]]
+Topic: [[Limpieza de Datos]]
 
 ----
 

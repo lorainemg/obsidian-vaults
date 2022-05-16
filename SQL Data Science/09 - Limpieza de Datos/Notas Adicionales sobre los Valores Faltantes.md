@@ -1,7 +1,7 @@
 # Notas Adicionales sobre los Valores Faltantes
 Creado: 2022-04-29 22:52
 Tags: #sql, #data-science, #eda, #data-preprocessing, #missing-values, #code
-Topic: [[EDA]]
+Topic: [[Limpieza de Datos]]
 
 ----
 

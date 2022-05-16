@@ -3,7 +3,7 @@ Tags: #topic-names
 
 ## Key Topics
 ---
-- [[SQL Data Science/08 - Análisis Exploratorio de Datos (EDA=/Técnicas de Limpieza de Datos]]
+- [[Técnicas de Limpieza de Datos]]
 	- [[Errores Tratados en la Limpieza de Datos]]
 - [[Escalado y Normalización de los Datos]]
 - [[Funciones para Tratar Strings]]

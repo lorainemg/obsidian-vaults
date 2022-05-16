@@ -1,7 +1,7 @@
 # Tipos de Valores Faltantes
 Creado: 2022-04-29 22:47
 Tags: #sql, #data-science, #eda, #data-preprocessing, #missing-values
-Topic: [[EDA]]
+Topic: [[Limpieza de Datos]]
 
 ----
 

@@ -10,4 +10,4 @@ Tags: #topic-note
 - [[Otros Tipos de Datos]]
 - [[Cargar y Descargar Datos de una BD]]
 - [[Consulta Básica de SQL]]
-- [[EDA]]
+- [[Limpieza de Datos]]

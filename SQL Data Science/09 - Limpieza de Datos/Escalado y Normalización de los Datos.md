@@ -1,7 +1,7 @@
 # Escalado y Normalización de los Datos
 Creado: 2022-04-29 22:31
 Tags: #sql, #data-science, #eda, #data-preprocessing, #code 
-Topic: [[EDA]]
+Topic: [[Limpieza de Datos]]
 
 ----
 

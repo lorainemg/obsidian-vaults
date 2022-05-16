@@ -4,5 +4,6 @@
   "promptDelete": false,
   "legacyEditor": false,
   "foldIndent": true,
-  "foldHeading": true
+  "foldHeading": true,
+  "alwaysUpdateLinks": true
 }

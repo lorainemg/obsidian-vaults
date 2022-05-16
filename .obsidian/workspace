@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "SQL Data Science/08 - Análisis Exploratorio de Datos (EDA=/Funciones para Tratar Strings.md",
+            "file": "SQL Data Science/09 - Limpieza de Datos/Tipos Valores Faltantes.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SQL Data Science/08 - Análisis Exploratorio de Datos (EDA=/Funciones para Tratar Strings.md",
+                "file": "SQL Data Science/09 - Limpieza de Datos/Tipos Valores Faltantes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,7 +97,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SQL Data Science/08 - Análisis Exploratorio de Datos (EDA=/Funciones para Tratar Strings.md",
+                "file": "SQL Data Science/09 - Limpieza de Datos/Tipos Valores Faltantes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SQL Data Science/08 - Análisis Exploratorio de Datos (EDA=/Funciones para Tratar Strings.md"
+                "file": "SQL Data Science/09 - Limpieza de Datos/Tipos Valores Faltantes.md"
               }
             }
           },
@@ -160,15 +160,14 @@
   },
   "active": "fbddc4f5d13955d8",
   "lastOpenFiles": [
-    "SQL Data Science/08 - Análisis Exploratorio de Datos (EDA=/Funciones para Tratar Strings.md",
-    "SQL Data Science/08 - Análisis Exploratorio de Datos (EDA=/Escalado y Normalización de los Datos.md",
-    "SQL Data Science/08 - Análisis Exploratorio de Datos (EDA=/Errores Tratados en la Limpieza de Datos.md",
-    "SQL Data Science/09 - Limpieza de Datos/Errores a Tratar en esta Etapa.md",
+    "SQL Data Science/09 - Limpieza de Datos/Tipos Valores Faltantes.md",
     "SQL Data Science/09 - Limpieza de Datos/Técnicas de Limpieza de Datos.md",
-    "SQL Data Science/01 - Etapas y Operaciones en el Ciclo de Vida de los Datos/Tareas de la Limpieza de Datos.md",
+    "SQL Data Science/09 - Limpieza de Datos/Notas Adicionales sobre los Valores Faltantes.md",
+    "SQL Data Science/09 - Limpieza de Datos/Funciones para Tratar Strings.md",
+    "SQL Data Science/09 - Limpieza de Datos/Escalado y Normalización de los Datos.md",
+    "SQL Data Science/09 - Limpieza de Datos/Errores Tratados en la Limpieza de Datos.md",
     "SQL Data Science/09 - Limpieza de Datos/Limpieza de Datos.md",
-    "SQL Data Science/SQL Data Science.md",
-    "SQL Data Science/08 - Análisis Exploratorio de Datos (EDA=/EDA.md",
-    "SQL Data Science/08 - Análisis Exploratorio de Datos (EDA=/Notas Adicionales sobre los Valores Faltantes.md"
+    "SQL Data Science/09 - Limpieza de Datos/Errores a Tratar en esta Etapa.md",
+    "SQL Data Science/01 - Etapas y Operaciones en el Ciclo de Vida de los Datos/Tareas de la Limpieza de Datos.md"
   ]
 }

@@ -1,7 +1,7 @@
 # Funciones para Tratar Strings
 Creado: 2022-04-29 22:43
 Tags: #sql, #data-science, #eda, #data-preprocessing , #code
-Topic: [[EDA]]
+Topic: [[Limpieza de Datos]]
 
 ----
 
