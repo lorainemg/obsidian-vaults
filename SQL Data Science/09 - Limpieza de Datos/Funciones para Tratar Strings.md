@@ -1,6 +1,6 @@
 # Funciones para Tratar Strings
 Creado: 2022-04-29 22:43
-Tags: #sql, #data-science, #eda, #data-preprocessing , #code
+Tags: #sql, #data-science, #eda, #data-cleaning, #data-preprocessing , #code
 Topic: [[Limpieza de Datos]]
 
 ----
@@ -13,4 +13,4 @@ Funciones útiles que están presentes tanto en Postgres como en MySQL para trat
 - Finalmente, la mayoría de las funciones incluyen la función útil `LENGTH()`.
 
 ## Referencias
-[[Tareas del Preprocesamiento de Datos]]
+[[Tareas de la Limpieza de Datos]]

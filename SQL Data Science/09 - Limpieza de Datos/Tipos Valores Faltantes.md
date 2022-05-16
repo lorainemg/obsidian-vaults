@@ -1,6 +1,6 @@
 # Tipos de Valores Faltantes
 Creado: 2022-04-29 22:47
-Tags: #sql, #data-science, #eda, #data-preprocessing, #missing-values
+Tags: #sql, #data-science, #eda, #data-cleaning , #missing-values
 Topic: [[Limpieza de Datos]]
 
 ----
@@ -11,4 +11,4 @@ Se distinguen 3 tipos de valores faltantes:
 - **Valores faltantes no ignorables** (_non-ignorable missing values_): los valores están perdidos independientemente de otros valores de B pero pueden depender en el valor subyacente de A. El problema con este caso es que puede no haber una manera de reemplazar los valores faltantes significativamente, ya que los valores de otros atributos no ayudan, y hay una conexión con otros valores de A, lo que siginifica que esos otros valores de A que tenemos no son una guía imparcial a los valores faltantes.
 
 ## Referencias
-[[Tareas del Preprocesamiento de Datos]]
+[[Tareas de la Limpieza de Datos]]
