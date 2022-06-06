@@ -12,3 +12,4 @@ Tags: #topic-note
 - [[Consulta Básica de SQL]]
 - [[EDA]]
 - [[Limpieza de Datos]]
+- [[Preprocesamiento de Datos]]
