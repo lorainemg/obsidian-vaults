@@ -161,6 +161,7 @@
   "active": "fbddc4f5d13955d8",
   "lastOpenFiles": [
     "SQL Data Science/10 - Preprocesamiento de Datos/Operaciones Realizadas en el Preprocesamiento de Datos.md",
+    "SQL Data Science/07 - Consulta Básicas de SQL/CASE.md",
     "SQL Data Science/10 - Preprocesamiento de Datos/Preprocesamiento de Datos.md",
     "SQL Data Science/09 - Limpieza de Datos/Tipos Valores Faltantes.md",
     "SQL Data Science/09 - Limpieza de Datos/Técnicas de Limpieza de Datos.md",
@@ -168,7 +169,6 @@
     "SQL Data Science/09 - Limpieza de Datos/Limpieza de Datos.md",
     "SQL Data Science/09 - Limpieza de Datos/Funciones para Tratar Strings.md",
     "SQL Data Science/09 - Limpieza de Datos/Escalado y Normalización de los Datos.md",
-    "SQL Data Science/09 - Limpieza de Datos/Errores Tratados en la Limpieza de Datos.md",
-    "SQL Data Science/01 - Etapas y Operaciones en el Ciclo de Vida de los Datos/Tareas del Preprocesamiento de Datos.md"
+    "SQL Data Science/09 - Limpieza de Datos/Errores Tratados en la Limpieza de Datos.md"
   ]
 }
