@@ -1,4 +1,9 @@
 # Falsehoods programmers believe about games
+Creado: 2022-06-16 23:07
+Tags: #every-programmer-should-know, #falsehoods, #games
+Topic: [[Awesome Falsehood]]
+
+----
 
 ## The Door Problem
 
@@ -79,3 +84,5 @@ To help people understand the role breakdowns at a big company, I sometimes go i
 - **Player**: “I totally didn’t even notice a door there.”
 
 One of the reasons I like this example is because it’s so mundane.  There’s an impression that game design is flashy and cool and about  crazy ideas and fun all the time. But when I start off with, “Let me  tell you about doors…” it cuts straight to the everyday practical  considerations.
+
+## Referencias
