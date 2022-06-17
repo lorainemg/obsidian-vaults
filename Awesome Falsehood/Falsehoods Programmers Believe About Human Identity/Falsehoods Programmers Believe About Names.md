@@ -1,4 +1,9 @@
-# Falsehoods Programmers Believe About Human Identity
+# Falsehoods Programmers Believe About Names
+Creado: 2022-06-16 23:18
+Tags: #every-programmer-should-know, #falsehoods, #human-identity, #names
+Topic: [[Falsehoods Programmers Believe About Human Identity]]
+
+----
 
 ## Falsehoods Programmers Believe About Names
 
@@ -170,94 +175,5 @@
 
   > This one is perhaps the most difficult for which to give solid examples. There was an isolated culture in which no one had names – they referred to everyone in relative terms, such as “my mother’s eldest sister”.
 
-## Falsehoods programmers believe about... Biometrics
 
-- [Everyone has fingerprints!](https://shkspr.mobi/blog/2021/01/falsehoods-programmers-believe-about-biometrics/#everyone-has-fingerprints)
-
-  > The BBC has a grim tale of a family with a genetic mutation which means  they have no fingerprints. It details the issues they have getting  official ID.
-  >
-  > > In 2010, fingerprints became mandatory for passports and driver's  licences. After several attempts, Amal was able to obtain a passport by  showing a certificate from a medical board. He has never used it though, partly because he fears the problems he may face at the airport. And  though riding a motorbike is essential to his farming work, he has never obtained a driving licence. "I paid the fee, passed the exam, but they  did not issue a licence because I couldn't provide fingerprint," he  said.
-  > >  [The family with no fingerprints](https://www.bbc.co.uk/news/world-asia-55301200)
-  >
-  > Even if this genetic issue didn't exist, it should be obvious that not  everyone has fingers, or hands. Some people are born without hands, some people lose them later in life.
-  >
-  > Policy is about the edge-cases.  It's easy to design something which works for the majority of people -  the real challenge is how we deal with the fringes.
-
-- [Everyone has a unique face / unique DNA](https://shkspr.mobi/blog/2021/01/falsehoods-programmers-believe-about-biometrics/#everyone-has-a-unique-face-unique-dna)
-
-  > Ever heard of twins, dumbass? OK, it is a [little bit more complicated than that](https://www.newscientist.com/article/dn27411-police-can-now-tell-identical-twins-apart-just-melt-their-dna/).
-
-- [It is easy to revoke a biometric indicator](https://shkspr.mobi/blog/2021/01/falsehoods-programmers-believe-about-biometrics/#it-is-easy-to-revoke-a-biometric-indicator)
-
-  > Even if you assumed that everyone has ten fingers - that means you can only  change your ID 9 times. If you're using iris recognition, that's one  change you're permitted before you have to grow new eyeballs.
-
-- [Biometrics can't be copied](https://shkspr.mobi/blog/2021/01/falsehoods-programmers-believe-about-biometrics/#biometrics-cant-be-copied)
-
-  > Back in 2002, [Tsutomu Matsumoto copied fingerprints using Gummy Bears](https://cryptome.org/gummy.htm).
-  >
-  > Researchers can consistently 
-  >
-  > [3D printed facemasks can defeat facial recognition systems](https://www.researchgate.net/publication/262605045_Spoofing_Face_Recognition_With_3D_Masks). The thing about biometrics is that they are *not* secret. You leave your fingerprints *everywhere*. If a camera can read your face, it can copy your details.
-
-- [Biometrics can't be changed](https://shkspr.mobi/blog/2021/01/falsehoods-programmers-believe-about-biometrics/#biometrics-cant-be-changed)
-
-  > Will having a "nose job" stop your iPhone from recognising you? [Probably not](https://www.solomonfacialplastic.com/rhinoplasty-toronto/will-facial-plastic-surgery-alter-the-facial-recognition-of-the-iphone-x/). But there are a range of surgical procedures which can be done.
-  >
-  > People who have [Facial Feminisation Surgery](https://www.thelondontransgenderclinic.uk/facial-feminisation-london/) can be [given a letter from a doctor](https://2pass.clinic/en/article/belgiums-safe-travels-how-about-traveling-before-and-after-ffs) to explain to border guards why a person's face may no longer match their biometrics.
-
-- [What are they good for?](https://shkspr.mobi/blog/2021/01/falsehoods-programmers-believe-about-biometrics/#what-are-they-good-for)
-
-  > Biometrics are not passwords. Nor are they a universal 2nd factor. Biometrics are, at best, usernames.
-  >
-  > For the average user, it's probably fine to use your fingerprint or face to unlock your phone. If you think an enemy state is going to devote  considerable resources to steal copies of your biometrics, consider  changing to a different password mechanism.
-  >
-  > Or, if you have kids.
-
-## Falsehoods Programmers Believe About Me
-
-- My name is not going to change. (Oops.)
-- OK, names can change, but email addresses *never* change, right?
-- OK, fine, email addresses can change, but I’ll *never* need to change my username, surely?
-- I have only changed my last name.
-- I have only changed my first name.
-- I have not changed my middle names.
-- I have the same number of names as I did before.
-- Both my first and last names are one uppercase letter followed by a series of lowercase letters.
-- I am going to capitalise my name the same way every time I type it into anything.
-- My full name can be rendered in ASCII.
-- You think you know how to spell MacDonald/MacDhòmhnaill better than I do.
-- MacDonald and McDonald are the same, right?
-- Scottish Gaelic is the same as Irish Gaelic.
-- My name is in a language other than English, so I must also speak that language.
-- You assume MacDonald is what it says on my ID, because that’s the name I’ve given you.
-- You assume I go by MacDhòmhnaill, because that’s what’s on my ID.
-- You assume that, even though I’ve told you “MacDhòmhnaill is on my ID but I go by MacDonald”, it’ll be basically fine if you just use  MacDonald/MacDhòmhnaill for everything.
-- *Your* system knows the difference between ‘legal name’ and ‘preferred name’, so *everyone’s* must.
-- I have changed my name everywhere.
-- I have changed my email address everywhere.
-- I have changed my email address everywhere to the same thing.
-- I *want* to change my name everywhere.
-- I *want* to change my name everywhere *at the same time*.
-- The name ‘Skylar’ is a boy’s name.
-- The name ‘Skylar’ is a girl’s name.
-- The name ‘Skylar’ is at all gendered.
-- The name ‘Skye’ is at all gendered.
-- Names are gendered.
-- This name might not be gendered, but most names are, so you’re going to have to pick a gender for this name.
-- The fact that I’ve changed my name means I’ve changed my gender or pronouns.
-- The fact that I’ve changed my name doesn’t mean I’ve changed my gender or pronouns.
-- The fact that I’ve changed my name means I’ve got married.
-- The fact that I’ve changed my name means I’ve got divorced.
-- OK, OK, fine, the fact that I’ve changed my name means that I’m in a civil partnership now?
-- The title I’ve given you matches what I’ve put in the gender box on the form.
-- You can’t have an ‘ò’ in a domain name.
-- You *can* have an ‘ò’ in a domain name without encoding it in [punycode](https://en.wikipedia.org/wiki/Punycode). (You know, [how IDN works](https://en.wikipedia.org/wiki/Internationalized_domain_name).)
-- If you’ve encoded a non-ASCII character with punycode, problem solved—you don’t need to display it in Unicode on the frontend.
-- I’m going to remember to enter my email address in punycode.
-- I’m going to remember that your system is smart enough to deal with Unicode and enter my email address *not* in punycode.
-- I’m going to remember the punycode version of my name, and not have to look it up *every single time*.
-- You operate a lot of different systems, sure, but they *all* know about punycode and IDN. Right?
-- I’ve changed my name, so I must have changed my email address.
-- I’ve changed my email address, so I must have changed my name.
-- I’ve changed my personal details, so I must have changed my phone number too.
-- I own `macdhòmhnaill.com`, so I must own `macdonald.com` as well.
+## Referencias

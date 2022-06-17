@@ -10,7 +10,7 @@ Tags: #topic-names
 [[Falsehoods programmers believe about education]]
 [[Falsehoods programmers believe about Emails]]
 [[Falsehoods programmers believe about geography]]
-[[human_identity]]
+[[Falsehoods Programmers Believe About Human Identity]]
 [[internationalization]]
 [[management]]
 [[meta]]
