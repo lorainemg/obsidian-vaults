@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Awesome Falsehood/Business/Falsehoods Programmers Believe about Business.md",
+            "file": "Awesome Falsehood/Falsehoods programmers believe about time/Falsehoods Programmers Believe about Datetime.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#time",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Awesome Falsehood/Business/Falsehoods Programmers Believe about Business.md",
+                "file": "Awesome Falsehood/Falsehoods programmers believe about time/Falsehoods Programmers Believe about Datetime.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,7 +97,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Awesome Falsehood/Business/Falsehoods Programmers Believe about Business.md",
+                "file": "Awesome Falsehood/Falsehoods programmers believe about time/Falsehoods Programmers Believe about Datetime.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Awesome Falsehood/Business/Falsehoods Programmers Believe about Business.md"
+                "file": "Awesome Falsehood/Falsehoods programmers believe about time/Falsehoods Programmers Believe about Datetime.md"
               }
             }
           },
@@ -160,15 +160,15 @@
   },
   "active": "0b3815caddc6a22d",
   "lastOpenFiles": [
-    "Awesome Falsehood/Business/Falsehoods Programmers Believe about Business.md",
-    "Awesome Falsehood/Business/Falsehoods programmers believe about prices.md",
-    "Awesome Falsehood/Business/Falsehoods Programmers Believe About IBANs.md",
-    "Awesome Falsehood/Business/Falsehoods about cars that developers believe in.md",
-    "Awesome Falsehood/Business/Falsehoods Programmers Believe About Aircraft Seat Maps.md",
-    "img/Screenshot-2021-11-02-at-18.01.13-1.png 1.md",
-    "Awesome Falsehood/arts.md",
+    "Awesome Falsehood/Falsehoods programmers believe about time/Falsehoods Programmers Believe about Datetime.md",
+    "Awesome Falsehood/Falsehoods programmers believe about time/Falsehoods programmers believe about the calendar.md",
+    "Awesome Falsehood/Falsehoods programmers believe about time/More falsehoods programmers believe about time zones.md",
+    "Awesome Falsehood/Falsehoods programmers believe about time/More falsehoods programmers believe about time.md",
+    "Awesome Falsehood/Falsehoods programmers believe about time/Falsehoods programmers believe about time zones.md",
+    "Awesome Falsehood/Falsehoods programmers believe about time/Falsehoods programmers believe about time.md",
+    "Awesome Falsehood/Falsehoods programmers believe about time/Falsehoods programmers believe about Unix Time.md",
     "Awesome Falsehood/Awesome Falsehood.md",
-    "Awesome Falsehood/videogames.md",
-    "Awesome Falsehood/typography.md"
+    "Awesome Falsehood/Falsehoods Programmers Believe about Business/Falsehoods Programmers Believe about Business.md",
+    "Awesome Falsehood/Falsehoods Programmers Believe about Arts.md"
   ]
 }

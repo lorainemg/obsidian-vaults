@@ -3,9 +3,9 @@ Tags: #topic-names
 
 ## Key Topics
 ---
-[[arts]]
+[[Falsehoods Programmers Believe about Arts]]
 [[Falsehoods Programmers Believe about Business]]
-[[datetime]]
+[[Falsehoods Programmers Believe about Datetime]]
 [[door]]
 [[education]]
 [[emails]]

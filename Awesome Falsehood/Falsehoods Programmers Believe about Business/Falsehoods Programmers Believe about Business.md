@@ -1,4 +1,3 @@
-
 # Falsehoods Programmers Believe about Business
 Creado: 2022-06-16 22:51
 Tags: #topic-names, #every-programmer-should-know, #falsehoods 
