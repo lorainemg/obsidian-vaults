@@ -1,4 +1,9 @@
 # Falsehoods programmers believe about Emails
+Creado: 2022-06-16 23:15
+Tags: #every-programmer-should-know, #falsehoods, #emails
+Topic: [[Awesome Falsehood]]
+
+----
 
 ## Your E-Mail Validation Logic is Wrong
 
@@ -252,3 +257,5 @@ On the other hand, many of the things that are *not valid* will indeed be allowe
 However, at the end of the day, it's good to remember that your initial regex along the lines of `[a-z0-9.-]+@[a-z0-9.-]+\.[a-z0-9]+` is quite simply... wrong.
 
 If you disagree, or have any other comments, feel free to email me at ['*+-/=?^_`{|}~#$@[IPv6:2001:470:30:84:e276:63ff:fe72:3900\]](mailto:'*%2B-%2F%3D%3F^_`{|}~%23%24@[IPv6:2001:470:30:84:e276:63ff:fe72:3900]) -- if your mail client lets you, that is.
+
+## Referencias
