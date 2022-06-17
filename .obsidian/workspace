@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "fbddc4f5d13955d8",
+        "id": "0b3815caddc6a22d",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Awesome Falsehood/arts.md",
+            "file": "Awesome Falsehood/Business/Falsehoods Programmers Believe about Business.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Awesome Falsehood/arts.md",
+                "file": "Awesome Falsehood/Business/Falsehoods Programmers Believe about Business.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,7 +97,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Awesome Falsehood/arts.md",
+                "file": "Awesome Falsehood/Business/Falsehoods Programmers Believe about Business.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Awesome Falsehood/arts.md"
+                "file": "Awesome Falsehood/Business/Falsehoods Programmers Believe about Business.md"
               }
             }
           },
@@ -158,17 +158,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "fbddc4f5d13955d8",
+  "active": "0b3815caddc6a22d",
   "lastOpenFiles": [
+    "Awesome Falsehood/Business/Falsehoods Programmers Believe about Business.md",
+    "Awesome Falsehood/Business/Falsehoods programmers believe about prices.md",
+    "Awesome Falsehood/Business/Falsehoods Programmers Believe About IBANs.md",
+    "Awesome Falsehood/Business/Falsehoods about cars that developers believe in.md",
+    "Awesome Falsehood/Business/Falsehoods Programmers Believe About Aircraft Seat Maps.md",
+    "img/Screenshot-2021-11-02-at-18.01.13-1.png 1.md",
     "Awesome Falsehood/arts.md",
     "Awesome Falsehood/Awesome Falsehood.md",
     "Awesome Falsehood/videogames.md",
-    "Awesome Falsehood/typography.md",
-    "Awesome Falsehood/society.md",
-    "Awesome Falsehood/postal_addresses.md",
-    "Awesome Falsehood/internationalization.md",
-    "Awesome Falsehood/geography.md",
-    "Awesome Falsehood/education.md",
-    "Awesome Falsehood/datetime.md"
+    "Awesome Falsehood/typography.md"
   ]
 }
