@@ -22,4 +22,3 @@ Tags: #topic-names
 [[society]]
 [[software_engineering]]
 [[typography]]
-[[videogames]]

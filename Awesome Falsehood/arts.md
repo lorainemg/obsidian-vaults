@@ -1,4 +1,9 @@
 # Falsehoods Programmers Believe about Arts
+Creado: 2022-06-16 22:40
+Tags: #every-programmer-should-know, #falsehoods, #arts
+Topic: [[Awesome Falsehood]]
+
+----
 
 ## Falsehood programmer believe about Art
 
@@ -47,3 +52,5 @@ In the spirit of Patrick McKenzie's great post on [falsehoods programmers believ
 10. Playing and listening to music are separate activities.
 11. Musicians can play their part separately from the overall composition.
 12. Music is performed by professional musicians.
+
+## Referencias

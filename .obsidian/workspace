@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Awesome Falsehood/Awesome Falsehood.md",
+            "file": "Awesome Falsehood/arts.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Awesome Falsehood/Awesome Falsehood.md",
+                "file": "Awesome Falsehood/arts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,7 +97,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Awesome Falsehood/Awesome Falsehood.md",
+                "file": "Awesome Falsehood/arts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Awesome Falsehood/Awesome Falsehood.md"
+                "file": "Awesome Falsehood/arts.md"
               }
             }
           },
@@ -160,15 +160,15 @@
   },
   "active": "fbddc4f5d13955d8",
   "lastOpenFiles": [
-    "Awesome Falsehood/Awesome Falsehood.md",
-    "Templates/Topic Note.md",
     "Awesome Falsehood/arts.md",
+    "Awesome Falsehood/Awesome Falsehood.md",
+    "Awesome Falsehood/videogames.md",
+    "Awesome Falsehood/typography.md",
+    "Awesome Falsehood/society.md",
+    "Awesome Falsehood/postal_addresses.md",
+    "Awesome Falsehood/internationalization.md",
     "Awesome Falsehood/geography.md",
-    "Awesome Falsehood/human_identity.md",
-    "Awesome Falsehood/emails.md",
-    "Awesome Falsehood/door.md",
-    "Awesome Falsehood/business.md",
-    "SQL Data Science/SQL Data Science.md",
-    "SQL Data Science/10 - Preprocesamiento de Datos/Operaciones Realizadas en el Preprocesamiento de Datos.md"
+    "Awesome Falsehood/education.md",
+    "Awesome Falsehood/datetime.md"
   ]
 }
