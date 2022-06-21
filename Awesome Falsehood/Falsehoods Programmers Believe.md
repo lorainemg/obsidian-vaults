@@ -1,4 +1,9 @@
 # Falsehoods Programmers Believe
+Creado: 2022-06-21 18:21
+Tags: #every-programmer-should-know, #falsehoods, #meta
+Topic: [[Awesome Falsehood/Awesome Falsehood]]
+
+----
 
 I'm in love with these lists of "Falsehoods Programmers Believe About X." In case you haven't had pleasure, I've collected all the ones I know of here. If I missed any, let me know!
 
@@ -198,3 +203,13 @@ I'm in love with these lists of "Falsehoods Programmers Believe About X." In cas
 
 - This list of falsehoods doesn’t apply to itself.      
 - This list exists. 
+
+
+## Referencias
+[[Falsehoods programmers believe about time]]
+[[Falsehoods Programmers Believe About Names]]
+[[Falsehoods programmers believe about time zones]]
+[[Falsehoods programmers believe about geography]]
+[[Falsehoods programmers believe about postal addresses]]
+[[Falsehoods Programmers Believe About Maps]]
+[[Falsehoods Programmers Believe About Software Engineering]]

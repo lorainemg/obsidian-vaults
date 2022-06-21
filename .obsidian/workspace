@@ -4,15 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "fe9050f472ae2c08",
+        "id": "983b2c9d3132617f",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Awesome Falsehood/software_engineering.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -40,7 +36,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#time",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -53,7 +49,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 327
+    "width": 531
   },
   "right": {
     "id": "2145f247de3a4821",
@@ -69,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Awesome Falsehood/software_engineering.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,7 +92,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Awesome Falsehood/software_engineering.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -108,9 +102,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Awesome Falsehood/software_engineering.md"
-              }
+              "state": {}
             }
           },
           {
@@ -159,17 +151,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "fe9050f472ae2c08",
+  "active": "983b2c9d3132617f",
   "lastOpenFiles": [
-    "Awesome Falsehood/software_engineering.md",
     "Awesome Falsehood/Awesome Falsehood.md",
-    "Awesome Falsehood/Falsehoods programmer believe about typography/Falsehoods programmer believe about typography.md",
-    "Awesome Falsehood/Falsehoods programmer believe about typography/Truths programmers should know about case.md",
-    "Awesome Falsehood/Falsehoods programmer believe about typography/Falsehoods Programmers Believe About Fonts.md",
-    "Awesome Falsehood/Falsehoods Programmers Believe About Society.md",
-    "Awesome Falsehood/Falsehoods Programmers Believe About Systems of Measurement.md",
-    "Awesome Falsehood/Falsehoods programmers believe about postal addresses.md",
-    "Awesome Falsehood/Falsehoods Programmers Believe About Phone Numbers.md",
-    "Awesome Falsehood/Falsehoods programmers believe about network.md"
+    "SQL Data Science/SQL Data Science.md",
+    "Awesome Falsehood/Falsehoods Programmers Believe.md",
+    "Awesome Falsehood/Falsehoods Programmers Believe About Software Engineering/Falsehoods Programmers Believe About Versions.md",
+    "Awesome Falsehood/Falsehoods Programmers Believe About Software Engineering/Falsehoods Programmers Believe About Software Engineering.md",
+    "Awesome Falsehood/Falsehoods Programmers Believe About Software Engineering/Falsehoods Programmers Believe About Search.md",
+    "Awesome Falsehood/Falsehoods Programmers Believe About Software Engineering/Falsehoods Programmers Believe about REST APIs.md",
+    "Awesome Falsehood/Falsehoods Programmers Believe About Software Engineering/Falsehoods Programmers Believe About Pagination.md",
+    "Awesome Falsehood/Falsehoods Programmers Believe About Software Engineering/Falsehoods Programmers Believe About Package Managers.md",
+    "Awesome Falsehood/Falsehoods Programmers Believe About Software Engineering/Falsehoods Programmers Believe about Garbage Collection.md"
   ]
 }

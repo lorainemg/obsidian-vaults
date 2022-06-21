@@ -41,6 +41,13 @@
         "a": 1,
         "rgb": 0
       }
+    },
+    {
+      "query": "tag:#every-programmer-should-know",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
     }
   ],
   "collapse-display": false,
@@ -53,6 +60,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.40760049413588856,
+  "scale": 0.30216455197533926,
   "close": false
 }
