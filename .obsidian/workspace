@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Awesome Falsehood/Falsehoods Programmers Believe About Phone Numbers.md",
+            "file": "Awesome Falsehood/Falsehoods programmers believe about postal addresses.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Awesome Falsehood/Falsehoods Programmers Believe About Phone Numbers.md",
+                "file": "Awesome Falsehood/Falsehoods programmers believe about postal addresses.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,7 +97,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Awesome Falsehood/Falsehoods Programmers Believe About Phone Numbers.md",
+                "file": "Awesome Falsehood/Falsehoods programmers believe about postal addresses.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Awesome Falsehood/Falsehoods Programmers Believe About Phone Numbers.md"
+                "file": "Awesome Falsehood/Falsehoods programmers believe about postal addresses.md"
               }
             }
           },
@@ -160,6 +160,7 @@
   },
   "active": "873a4c957abec624",
   "lastOpenFiles": [
+    "Awesome Falsehood/Falsehoods programmers believe about postal addresses.md",
     "Awesome Falsehood/Falsehoods Programmers Believe About Phone Numbers.md",
     "Awesome Falsehood/Falsehoods programmers believe about network.md",
     "Awesome Falsehood/Falsehoods Programmers Believe About Multimedia.md",
@@ -168,7 +169,6 @@
     "Awesome Falsehood/internationalization.md",
     "Awesome Falsehood/Falsehoods Programmers Believe About Internalization/Falsehoods Programmers Believe About Internalization.md",
     "Awesome Falsehood/Falsehoods Programmers Believe About Internalization/Falsehoods Programmers Believe About Language.md",
-    "Awesome Falsehood/Falsehoods Programmers Believe About Internalization/Falsehoods Programmers Believe About Plain Text.md",
-    "Awesome Falsehood/Falsehoods programmers believe about games.md"
+    "Awesome Falsehood/Falsehoods Programmers Believe About Internalization/Falsehoods Programmers Believe About Plain Text.md"
   ]
 }

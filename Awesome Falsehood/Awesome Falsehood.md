@@ -16,7 +16,7 @@ Tags: #topic-names
 [[Falsehoods Programmers Believe About Multimedia]]
 [[Falsehoods programmers believe about network]]
 [[Falsehoods Programmers Believe About Phone Numbers]]
-[[postal_addresses]]
+[[Falsehoods programmers believe about postal addresses]]
 [[science]]
 [[society]]
 [[software_engineering]]
