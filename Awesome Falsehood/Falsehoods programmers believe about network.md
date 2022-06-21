@@ -1,4 +1,9 @@
-# Falsehoods programmers believe about networks
+# Falsehoods programmers believe about network
+Creado: 2022-06-21 17:07
+Tags: #every-programmer-should-know, #falsehoods, #network
+Topic: [[Awesome Falsehood]] 
+
+----
 
 - Data on the network cannot be altered.
 - Encrypted data on the network cannot be altered.
@@ -63,3 +68,5 @@ What's fun is that you can see these errors happen by monitoring  packets,   I s
 - The network is homogeneous
 
   > If a system assumes a homogeneous network, then it can lead to the same problems that result from the first three fallacies.
+  
+## Referenciass

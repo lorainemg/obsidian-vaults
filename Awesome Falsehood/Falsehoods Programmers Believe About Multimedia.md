@@ -1,4 +1,9 @@
 # Falsehoods Programmers Believe About Multimedia
+Creado: 2022-06-21 17:06
+Tags: #every-programmer-should-know, #falsehoods, #multimedia
+Topic: [[Awesome Falsehood/Awesome Falsehood]]
+
+----
 
 ## Falsehoods programmers believe about [video stuff]...
 
@@ -199,3 +204,5 @@
 - the subtitle color space will be the same as the video color space
 - rendering subtitles at the output resolution is always better than rendering them at the video resolution
 - there’s an ASS specification
+
+## Referencias
