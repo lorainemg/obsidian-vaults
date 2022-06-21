@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "873a4c957abec624",
+        "id": "fe9050f472ae2c08",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Awesome Falsehood/Falsehoods programmers believe about postal addresses.md",
+            "file": "Awesome Falsehood/software_engineering.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Awesome Falsehood/Falsehoods programmers believe about postal addresses.md",
+                "file": "Awesome Falsehood/software_engineering.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,7 +97,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Awesome Falsehood/Falsehoods programmers believe about postal addresses.md",
+                "file": "Awesome Falsehood/software_engineering.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Awesome Falsehood/Falsehoods programmers believe about postal addresses.md"
+                "file": "Awesome Falsehood/software_engineering.md"
               }
             }
           },
@@ -156,19 +156,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
-  "active": "873a4c957abec624",
+  "active": "fe9050f472ae2c08",
   "lastOpenFiles": [
+    "Awesome Falsehood/software_engineering.md",
+    "Awesome Falsehood/Awesome Falsehood.md",
+    "Awesome Falsehood/Falsehoods programmer believe about typography/Falsehoods programmer believe about typography.md",
+    "Awesome Falsehood/Falsehoods programmer believe about typography/Truths programmers should know about case.md",
+    "Awesome Falsehood/Falsehoods programmer believe about typography/Falsehoods Programmers Believe About Fonts.md",
+    "Awesome Falsehood/Falsehoods Programmers Believe About Society.md",
+    "Awesome Falsehood/Falsehoods Programmers Believe About Systems of Measurement.md",
     "Awesome Falsehood/Falsehoods programmers believe about postal addresses.md",
     "Awesome Falsehood/Falsehoods Programmers Believe About Phone Numbers.md",
-    "Awesome Falsehood/Falsehoods programmers believe about network.md",
-    "Awesome Falsehood/Falsehoods Programmers Believe About Multimedia.md",
-    "Awesome Falsehood/meta.md",
-    "Awesome Falsehood/Awesome Falsehood.md",
-    "Awesome Falsehood/internationalization.md",
-    "Awesome Falsehood/Falsehoods Programmers Believe About Internalization/Falsehoods Programmers Believe About Internalization.md",
-    "Awesome Falsehood/Falsehoods Programmers Believe About Internalization/Falsehoods Programmers Believe About Language.md",
-    "Awesome Falsehood/Falsehoods Programmers Believe About Internalization/Falsehoods Programmers Believe About Plain Text.md"
+    "Awesome Falsehood/Falsehoods programmers believe about network.md"
   ]
 }

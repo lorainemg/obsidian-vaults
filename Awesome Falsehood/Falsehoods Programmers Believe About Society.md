@@ -1,4 +1,9 @@
 # Falsehoods Programmers Believe About Society
+Creado: 2022-06-21 17:51
+Tags: #every-programmer-should-know, #falsehoods, #society
+Topic: [[Awesome Falsehood/Awesome Falsehood]]
+
+----
 
 * We have absolutely no idea what we're doing in tech. Please explain the utmost basic things to us. 
 
@@ -47,3 +52,5 @@
 * Every woman in tech is 20 years old and just starting out. PLEASE HELP!1!
 
 * The woman you just pissed off massively will never be your boss. 
+
+## Referencias
