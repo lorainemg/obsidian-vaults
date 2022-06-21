@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "0b3815caddc6a22d",
+        "id": "873a4c957abec624",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Awesome Falsehood/networks.md",
+            "file": "Awesome Falsehood/meta.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Awesome Falsehood/networks.md",
+                "file": "Awesome Falsehood/meta.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,7 +97,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Awesome Falsehood/networks.md",
+                "file": "Awesome Falsehood/meta.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Awesome Falsehood/networks.md"
+                "file": "Awesome Falsehood/meta.md"
               }
             }
           },
@@ -158,17 +158,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "0b3815caddc6a22d",
+  "active": "873a4c957abec624",
   "lastOpenFiles": [
-    "Awesome Falsehood/networks.md",
-    "Awesome Falsehood/multimedia.md",
     "Awesome Falsehood/meta.md",
-    "Awesome Falsehood/management.md",
+    "Awesome Falsehood/Awesome Falsehood.md",
     "Awesome Falsehood/internationalization.md",
-    "Awesome Falsehood/Falsehoods Programmers Believe About Human Identity/Falsehoods Programmers Believe About Human Identity.md",
-    "Awesome Falsehood/Falsehoods Programmers Believe About Human Identity/Falsehoods Programmers Believe About Me.md",
-    "Awesome Falsehood/Falsehoods Programmers Believe About Human Identity/Falsehoods programmers believe about... Biometrics.md",
-    "Awesome Falsehood/Falsehoods Programmers Believe About Human Identity/Falsehoods Programmers Believe About Names.md",
-    "Awesome Falsehood/Falsehoods programmers believe about Emails.md"
+    "Awesome Falsehood/Falsehoods Programmers Believe About Internalization/Falsehoods Programmers Believe About Internalization.md",
+    "Awesome Falsehood/Falsehoods Programmers Believe About Internalization/Falsehoods Programmers Believe About Language.md",
+    "Awesome Falsehood/Falsehoods Programmers Believe About Internalization/Falsehoods Programmers Believe About Plain Text.md",
+    "Awesome Falsehood/Falsehoods programmers believe about games.md",
+    "Awesome Falsehood/Falsehoods programmers believe about Emails.md",
+    "Awesome Falsehood/Falsehoods Programmers Believe about Arts.md",
+    "Awesome Falsehood/Falsehoods Programmers Believe About Human Identity/Falsehoods Programmers Believe About Human Identity.md"
   ]
 }
