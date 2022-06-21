@@ -17,7 +17,7 @@ Topic: [[Falsehoods Programmers Believe about Datetime]]
   >
   > It makes for a very jagged international date line
   >
-  > ![pasted-image-0--1-](C:\_School\Every Programmer Should Know\Introduction\Awesome Falsehood\img\timezones\pasted-image-0--1-.png)
+  > ![[pasted-image-0--1-.png]]
 
 - Every UTC offset corresponds to exactly one time zone
 
@@ -72,7 +72,7 @@ Topic: [[Falsehoods Programmers Believe about Datetime]]
   >
   > But it makes you wonder: what would happen if the mountain ever shifted?
   >
-  > ![mountain-moved-3](C:\_School\Every Programmer Should Know\Introduction\Awesome Falsehood\img\timezones\mountain-moved-3.png)
+  > ![[mountain-moved-3.png]]
 
 - A country stays at the same UTC offset all year long
 
@@ -128,7 +128,7 @@ Topic: [[Falsehoods Programmers Believe about Datetime]]
   >
   > On the plus side, just 40 miles away the American Samoa Islands stayed on  the other side of the international date line. Now Samoans can celebrate new years on the Western Island, and then boat over to American Samoa  for a second new year’s party the next night.
   >
-  > ![pasted-image-0--2-](C:\_School\Every Programmer Should Know\Introduction\Awesome Falsehood\img\timezones\pasted-image-0--2-.png)
+  > ![[pasted-image-0--2-.png]]
 
 - A country stays in the same time zone during Daylight Saving Time
 
@@ -140,7 +140,7 @@ Topic: [[Falsehoods Programmers Believe about Datetime]]
   >
   > Chile goes from Chile Standard Time to Chile Summer Time
   >
-  > ![dst-shift](C:\_School\Every Programmer Should Know\Introduction\Awesome Falsehood\img\timezones\dst-shift.png)
+  > ![[dst-shift.png]]
 
 - Daylight Saving Time starts around March and ends around October
 
@@ -164,7 +164,7 @@ Topic: [[Falsehoods Programmers Believe about Datetime]]
   >
   > If there's no standard name for time zones, can you really expect one for the abbreviations?
   >
-  > ![fake-franks](C:\_School\Every Programmer Should Know\Introduction\Awesome Falsehood\img\timezones\fake-franks.png)
+  > ![[fake-franks.png]]
 
 - There is always an unambiguous conversion from one time zone to another
 
@@ -178,7 +178,7 @@ Topic: [[Falsehoods Programmers Believe about Datetime]]
   >
   > 1:30am occurs twice that morning, how do you know which instance was intended?
   >
-  > ![deja-vu](C:\_School\Every Programmer Should Know\Introduction\Awesome Falsehood\img\timezones\deja-vu.png)
+  > ![[deja-vu.png]]
 
 - Your time zone library can recognize any time zone (you are using a library for this, right?)
 
@@ -194,13 +194,13 @@ Topic: [[Falsehoods Programmers Believe about Datetime]]
 
   > In the US, Arizona doesn't practice Daylight Saving Time
   >
-  > ![arizona-dst](C:\_School\Every Programmer Should Know\Introduction\Awesome Falsehood\img\timezones\arizona-dst.png)
+  > ![[arizona-dst.png]]
 
 - The entire state always shifts during Daylight Saving Time
 
   > Within Arizona, the Navajo Nation happily follows Daylight Saving Time
   >
-  > ![navajo-nation](C:\_School\Every Programmer Should Know\Introduction\Awesome Falsehood\img\timezones\navajo-nation.png)
+  > ![[navajo-nation.png]]
 
 - Other than DST, every city within a state follows the same time zone
 

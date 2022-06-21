@@ -44,7 +44,7 @@ Seat map examples are courtesy of [SeatGuru](https://www.seatguru.com/).
 
   [British Airways Boeing 747-400 Layout 1](https://www.seatguru.com/airlines/British_Airways/British_Airways_Boeing_747-400_C.php)
 
-  ![Screenshot-2021-11-02-at-17.39.51-1-1](C:\_School\Every Programmer Should Know\Introduction\Awesome Falsehood\img\Screenshot-2021-11-02-at-17.39.51-1-1.png)
+  ![[Screenshot-2021-11-02-at-17.39.51-1-1.png]]
 
 - Seat rows are numbered with consecutive numbers
 
@@ -54,7 +54,7 @@ Seat map examples are courtesy of [SeatGuru](https://www.seatguru.com/).
 
   [Ryanair Boeing 737-800](https://www.seatguru.com/airlines/Ryanair/Ryanair_Boeing_737-800.php)
 
-  ![Screenshot-2021-11-02-at-17.45.59](C:\_School\Every Programmer Should Know\Introduction\Awesome Falsehood\img\Screenshot-2021-11-02-at-17.45.59.png)
+  ![[Screenshot-2021-11-02-at-17.45.59.png]]
 
 - Seats in a row are numbered with consecutive letter
 
@@ -64,7 +64,7 @@ Seat map examples are courtesy of [SeatGuru](https://www.seatguru.com/).
 
   [Virgin Atlantic Boeing 747-400](https://www.seatguru.com/airlines/Virgin_Atlantic_Airways/Virgin_Atlantic_Airways_B747-400_LGW-1.php)
 
-![Screenshot-2021-11-03-at-11.58.36-1](C:\_School\Every Programmer Should Know\Introduction\Awesome Falsehood\img\Screenshot-2021-11-03-at-11.58.36-1.png)
+![[Screenshot-2021-11-03-at-11.58.36-1.png]]
 
 - Seat rows always have the same number of seats in a single cabin
 
@@ -74,7 +74,7 @@ Seat map examples are courtesy of [SeatGuru](https://www.seatguru.com/).
 
   [British Airways Airbus A321neo Layout 2](https://www.seatguru.com/airlines/British_Airways/British_Airways_Airbus_A321neo_V5.php)
 
-![Screenshot-2021-11-02-at-17.21.07](C:\_School\Every Programmer Should Know\Introduction\Awesome Falsehood\img\Screenshot-2021-11-02-at-17.21.07.png)
+![[Screenshot-2021-11-02-at-17.21.07.png]]
 
 - The seat in front or behind always has the same letter
 
@@ -86,7 +86,7 @@ Seat map examples are courtesy of [SeatGuru](https://www.seatguru.com/).
 
   [American Airlines Boeing 777-200](https://www.seatguru.com/airlines/American_Airlines/American_Airlines_Boeing_777-200ER_E.php)
 
-![Screenshot-2021-11-02-at-17.55.46](C:\_School\Every Programmer Should Know\Introduction\Awesome Falsehood\img\Screenshot-2021-11-02-at-17.55.46.png)
+![[Screenshot-2021-11-02-at-17.55.46.png]]
 
 - Toilets and galleys are always placed before or after blocks of seats
 
@@ -96,7 +96,7 @@ Seat map examples are courtesy of [SeatGuru](https://www.seatguru.com/).
 
   [American Airlines Boeing 777-200](https://www.seatguru.com/airlines/American_Airlines/American_Airlines_Boeing_777-200ER_E.php)
 
-  ![Screenshot-2021-11-02-at-18.01.13-1](img\Screenshot-2021-11-02-at-18.01.13-1.png)
+  ![[Screenshot-2021-11-02-at-18.01.13-1.png]]
 
 - Seats are aligned in rows in a cabin
 
@@ -104,11 +104,9 @@ Seat map examples are courtesy of [SeatGuru](https://www.seatguru.com/).
 
   **Example**
 
-  [American Airlines Boeing 787-8
+  [American Airlines Boeing 787-8](https://www.seatguru.com/airlines/American_Airlines/American_Airlines_AA_Boeing_787-8_A.php)
 
-  [](https://www.seatguru.com/airlines/American_Airlines/American_Airlines_AA_Boeing_787-8_A.php)
-
-  ![Screenshot-2021-11-02-at-18.04.57](C:\_School\Every Programmer Should Know\Introduction\Awesome Falsehood\img\Screenshot-2021-11-02-at-18.04.57.png)
+  ![[Screenshot-2021-11-02-at-18.04.57.png]]
 
 - Seats are aligned in columns in a cabin
 
@@ -118,7 +116,7 @@ Seat map examples are courtesy of [SeatGuru](https://www.seatguru.com/).
 
   [American Airlines Airbus A330-200](https://www.seatguru.com/airlines/American_Airlines/American_Airlines_Airbus_A330-200_C.php)
 
-  ![Screenshot-2021-11-02-at-18.30.23-1](C:\_School\Every Programmer Should Know\Introduction\Awesome Falsehood\img\Screenshot-2021-11-02-at-18.30.23-1.png)
+  ![[Screenshot-2021-11-02-at-18.30.23-1.png]]
 
 - Seats are aligned in columns in a cabin or shifted half a seat
 
@@ -128,6 +126,6 @@ Seat map examples are courtesy of [SeatGuru](https://www.seatguru.com/).
 
   [Eurowings Airbus A330-200](https://www.seatguru.com/airlines/Eurowings_Airlines/Eurowings_Airbus_A330-200.php)
 
-  ![Screenshot-2021-11-02-at-18.43.49-1](C:\_School\Every Programmer Should Know\Introduction\Awesome Falsehood\img\Screenshot-2021-11-02-at-18.43.49-1.png)
+  ![[Screenshot-2021-11-02-at-18.43.49-1.png]]
   
 ## Referencias

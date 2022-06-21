@@ -40,7 +40,7 @@ And so our falsehoods go as follows:
 
   Each Unix day has the same number of  seconds, so when the next day starts, it skips ahead by one. The final  Unix second of the shorter day never gets allocated to a UTC timestamp.  Here’s what that would look like, in quarter-second increments:
 
-  ![unix_time_skips_forwards](C:\_School\Every Programmer Should Know\Introduction\Awesome Falsehood\img\unix_time\unix_time_skips_forwards.png)
+  ![[unix_time_skips_forwards.png]]
 
   If you start at 23:59:58:00 UTC and wait one second, the Unix time advances by *two* seconds, and the Unix timestamp 101 never gets assigned.
 
@@ -48,7 +48,7 @@ And so our falsehoods go as follows:
 
   This one has happened in practice – 27 times at time of writing. The UTC day gets an extra second added to the end, 23:59:60. Each Unix day has the  same number of seconds, so it can’t just add an extra second – instead,  it repeats the Unix timestamps for the last second of the day. Here’s  what that would look like, in quarter-second increments:
 
-  ![unix_time_goes_backwards](C:\_School\Every Programmer Should Know\Introduction\Awesome Falsehood\img\unix_time\unix_time_goes_backwards.png)
+  ![[unix_time_goes_backwards.png]]
 
   If you start at 23:59:60.50 and wait half a second, the Unix time goes *back* by half a second, and the Unix timestamp 101 matches two UTC seconds.
 

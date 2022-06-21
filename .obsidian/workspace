@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "983b2c9d3132617f",
+        "id": "e75349c90658ed19",
         "type": "leaf",
         "state": {
           "type": "graph",
@@ -36,7 +36,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "png",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -45,7 +45,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -151,17 +152,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "983b2c9d3132617f",
+  "active": "e75349c90658ed19",
   "lastOpenFiles": [
+    "Templates/Note.md",
+    "Awesome Falsehood/Falsehoods programmers believe about time/More falsehoods programmers believe about time zones.md",
+    "Awesome Falsehood/Falsehoods programmers believe about time/Falsehoods programmers believe about Unix Time.md",
+    "Awesome Falsehood/Falsehoods Programmers Believe about Business/Falsehoods Programmers Believe About Aircraft Seat Maps.md",
+    "Awesome Falsehood/img/Screenshot-2021-11-02-at-17.39.51-1-1.png",
+    "(./img/Screenshot-2021-11-02-at-17.39.51-1-1.png).md",
     "Awesome Falsehood/Awesome Falsehood.md",
+    "Awesome Falsehood.md",
     "SQL Data Science/SQL Data Science.md",
-    "Awesome Falsehood/Falsehoods Programmers Believe.md",
-    "Awesome Falsehood/Falsehoods Programmers Believe About Software Engineering/Falsehoods Programmers Believe About Versions.md",
-    "Awesome Falsehood/Falsehoods Programmers Believe About Software Engineering/Falsehoods Programmers Believe About Software Engineering.md",
-    "Awesome Falsehood/Falsehoods Programmers Believe About Software Engineering/Falsehoods Programmers Believe About Search.md",
-    "Awesome Falsehood/Falsehoods Programmers Believe About Software Engineering/Falsehoods Programmers Believe about REST APIs.md",
-    "Awesome Falsehood/Falsehoods Programmers Believe About Software Engineering/Falsehoods Programmers Believe About Pagination.md",
-    "Awesome Falsehood/Falsehoods Programmers Believe About Software Engineering/Falsehoods Programmers Believe About Package Managers.md",
-    "Awesome Falsehood/Falsehoods Programmers Believe About Software Engineering/Falsehoods Programmers Believe about Garbage Collection.md"
+    "Awesome Falsehood/Falsehoods Programmers Believe.md"
   ]
 }
