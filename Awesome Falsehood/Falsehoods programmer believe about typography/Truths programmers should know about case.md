@@ -55,7 +55,7 @@ And one final note before I begin: there’s a lot of terminology in  Unicode. I
 
 > Definition 135 in §3.13 of the Unicode Standard says:
 >
-> > A character C is defined to be cased if and only if C has the  Lowercase or Uppercase property or has a General_Category value  of Titlecase_Letter.
+> A character C is defined to be cased if and only if C has the  Lowercase or Uppercase property or has a General_Category value  of Titlecase_Letter.
 >
 > This means a huge number of characters in Unicode — the majority, in  fact — are not cased. Questions about their case are not meaningful, and case mappings have no effect on them. Definition (3) of case above will still return an answer for them, though.
 

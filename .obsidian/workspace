@@ -7,8 +7,12 @@
         "id": "e75349c90658ed19",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "SQL Data Science/11 - Enfoques Supervisados/Separación de Datos en Entrenamiento y Prueba.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -36,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "png",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -45,8 +49,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -66,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "SQL Data Science/11 - Enfoques Supervisados/Separación de Datos en Entrenamiento y Prueba.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,6 +97,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "SQL Data Science/11 - Enfoques Supervisados/Separación de Datos en Entrenamiento y Prueba.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -103,7 +108,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "SQL Data Science/11 - Enfoques Supervisados/Separación de Datos en Entrenamiento y Prueba.md"
+              }
             }
           },
           {
@@ -154,15 +161,15 @@
   },
   "active": "e75349c90658ed19",
   "lastOpenFiles": [
-    "Templates/Note.md",
-    "Awesome Falsehood/Falsehoods programmers believe about time/More falsehoods programmers believe about time zones.md",
-    "Awesome Falsehood/Falsehoods programmers believe about time/Falsehoods programmers believe about Unix Time.md",
-    "Awesome Falsehood/Falsehoods Programmers Believe about Business/Falsehoods Programmers Believe About Aircraft Seat Maps.md",
-    "Awesome Falsehood/img/Screenshot-2021-11-02-at-17.39.51-1-1.png",
-    "(./img/Screenshot-2021-11-02-at-17.39.51-1-1.png).md",
-    "Awesome Falsehood/Awesome Falsehood.md",
-    "Awesome Falsehood.md",
-    "SQL Data Science/SQL Data Science.md",
-    "Awesome Falsehood/Falsehoods Programmers Believe.md"
+    "SQL Data Science/11 - Enfoques Supervisados/Separación de Datos en Entrenamiento y Prueba.md",
+    "SQL Data Science/11 - Enfoques Supervisados/Implementación de Naive Bayes.md",
+    "SQL Data Science/11 - Enfoques Supervisados/Enfoques Supervisados.md",
+    "SQL Data Science/04 - Esquema de Bases de Datos/Datos no Tabulares.md",
+    "SQL Data Science/Enfoques Supervisados.md",
+    "SQL Data Science/03 - Tablas de Bases de Datos/Llaves Primarias, IDs automáticos, Identificadores Únicos.md",
+    "SQL Data Science/05 - Otros Tipos de Datos/Otros Tipos de Datos.md",
+    "SQL Data Science/05 - Otros Tipos de Datos/Datos Jerárquicos.md",
+    "SQL Data Science/05 - Otros Tipos de Datos/Datos en Forma de Texto.md",
+    "SQL Data Science/05 - Otros Tipos de Datos/Datos en Forma de Grafos.md"
   ]
 }
