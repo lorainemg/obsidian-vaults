@@ -7,11 +7,10 @@
         "id": "e75349c90658ed19",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "diff-view",
           "state": {
-            "file": "SQL Data Science/SQL Data Science.md",
-            "mode": "source",
-            "source": false
+            "file": "SQL Data Science/12 - Enfoques no Supervisados/Enfoques no Supervisados.md",
+            "staged": false
           }
         }
       }
@@ -69,7 +68,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SQL Data Science/SQL Data Science.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,7 +95,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SQL Data Science/SQL Data Science.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -108,9 +105,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "SQL Data Science/SQL Data Science.md"
-              }
+              "state": {}
             }
           },
           {
@@ -160,8 +155,8 @@
   },
   "active": "e75349c90658ed19",
   "lastOpenFiles": [
-    "SQL Data Science/SQL Data Science.md",
     "SQL Data Science/12 - Enfoques no Supervisados/Enfoques no Supervisados.md",
+    "SQL Data Science/SQL Data Science.md",
     "SQL Data Science/12 - Enfoques no Supervisados/Distancias.md",
     "SQL Data Science/12 - Enfoques no Supervisados/Algoritmo de K-Means.md",
     "SQL Data Science/12 - Enfoques no Supervisados/Cohesión de un Cluster.md",
