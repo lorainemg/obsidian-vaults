@@ -7,10 +7,11 @@
         "id": "e75349c90658ed19",
         "type": "leaf",
         "state": {
-          "type": "diff-view",
+          "type": "markdown",
           "state": {
-            "file": "SQL Data Science/12 - Enfoques no Supervisados/Enfoques no Supervisados.md",
-            "staged": false
+            "file": "SQL Data Science/13 - Tratando con JSON y XML/Tratando con JSON y XML.md",
+            "mode": "source",
+            "source": false
           }
         }
       }
@@ -68,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "SQL Data Science/13 - Tratando con JSON y XML/Tratando con JSON y XML.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,6 +97,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "SQL Data Science/13 - Tratando con JSON y XML/Tratando con JSON y XML.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -105,7 +108,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "SQL Data Science/13 - Tratando con JSON y XML/Tratando con JSON y XML.md"
+              }
             }
           },
           {
@@ -155,6 +160,7 @@
   },
   "active": "e75349c90658ed19",
   "lastOpenFiles": [
+    "SQL Data Science/13 - Tratando con JSON y XML/Tratando con JSON y XML.md",
     "SQL Data Science/12 - Enfoques no Supervisados/Enfoques no Supervisados.md",
     "SQL Data Science/SQL Data Science.md",
     "SQL Data Science/12 - Enfoques no Supervisados/Distancias.md",
@@ -163,7 +169,6 @@
     "SQL Data Science/11 - Enfoques Supervisados/Enfoques Supervisados.md",
     "Awesome Falsehood/Falsehoods Programmers Believe About Multimedia.md",
     "SQL Data Science/Untitled.md",
-    "SQL Data Science/11 - Enfoques Supervisados/Limitaciones de la Regresión Lineal.md",
-    "SQL Data Science/11 - Enfoques Supervisados/Implementación de Naive Bayes.md"
+    "SQL Data Science/11 - Enfoques Supervisados/Limitaciones de la Regresión Lineal.md"
   ]
 }
