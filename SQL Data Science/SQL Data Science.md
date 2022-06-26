@@ -13,3 +13,4 @@ Tags: #topic-note
 - [[EDA]]
 - [[Limpieza de Datos]]
 - [[Preprocesamiento de Datos]]
+- [[Enfoques Supervisados]]
