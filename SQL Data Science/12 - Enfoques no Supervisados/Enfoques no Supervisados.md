@@ -3,3 +3,6 @@ Tags: #topic-namesm #sql, #data-science
 
 ## Key Topics
 ---
+[[Distancias]]
+[[Algoritmo de K-Means]]
+[[Cohesión de un Cluster]]
