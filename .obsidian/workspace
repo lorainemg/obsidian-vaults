@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "SQL Data Science/SQL Data Science.md",
+            "file": "SQL Data Science/11 - Enfoques Supervisados/Enfoques Supervisados.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SQL Data Science/SQL Data Science.md",
+                "file": "SQL Data Science/11 - Enfoques Supervisados/Enfoques Supervisados.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,7 +97,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SQL Data Science/SQL Data Science.md",
+                "file": "SQL Data Science/11 - Enfoques Supervisados/Enfoques Supervisados.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SQL Data Science/SQL Data Science.md"
+                "file": "SQL Data Science/11 - Enfoques Supervisados/Enfoques Supervisados.md"
               }
             }
           },
@@ -160,15 +160,15 @@
   },
   "active": "e75349c90658ed19",
   "lastOpenFiles": [
+    "SQL Data Science/11 - Enfoques Supervisados/Enfoques Supervisados.md",
+    "SQL Data Science/12 - Enfoques no Supervisados/Enfoques no Supervisados.md",
+    "Awesome Falsehood/Falsehoods Programmers Believe About Multimedia.md",
+    "SQL Data Science/Untitled.md",
     "SQL Data Science/SQL Data Science.md",
     "SQL Data Science/11 - Enfoques Supervisados/Limitaciones de la Regresión Lineal.md",
     "SQL Data Science/11 - Enfoques Supervisados/Implementación de Naive Bayes.md",
     "SQL Data Science/11 - Enfoques Supervisados/Separación de Datos en Entrenamiento y Prueba.md",
-    "SQL Data Science/11 - Enfoques Supervisados/Enfoques Supervisados.md",
     "SQL Data Science/04 - Esquema de Bases de Datos/Datos no Tabulares.md",
-    "SQL Data Science/Enfoques Supervisados.md",
-    "SQL Data Science/03 - Tablas de Bases de Datos/Llaves Primarias, IDs automáticos, Identificadores Únicos.md",
-    "SQL Data Science/05 - Otros Tipos de Datos/Otros Tipos de Datos.md",
-    "SQL Data Science/05 - Otros Tipos de Datos/Datos Jerárquicos.md"
+    "SQL Data Science/Enfoques Supervisados.md"
   ]
 }
