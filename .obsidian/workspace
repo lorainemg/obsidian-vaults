@@ -7,12 +7,8 @@
         "id": "e75349c90658ed19",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "SQL Data Science/13 - Tratando con JSON y XML/Collaborative Filtering.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -69,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SQL Data Science/13 - Tratando con JSON y XML/Collaborative Filtering.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,7 +92,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SQL Data Science/13 - Tratando con JSON y XML/Collaborative Filtering.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -108,9 +102,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "SQL Data Science/13 - Tratando con JSON y XML/Collaborative Filtering.md"
-              }
+              "state": {}
             }
           },
           {
@@ -160,14 +152,14 @@
   },
   "active": "e75349c90658ed19",
   "lastOpenFiles": [
+    "SQL Data Science/SQL Data Science.md",
+    "SQL Data Science/13 - Tratando con JSON y XML/Tratando con JSON y XML.md",
     "SQL Data Science/13 - Tratando con JSON y XML/Collaborative Filtering.md",
     "SQL Data Science/13 - Tratando con JSON y XML/Clausura Transitiva.md",
     "SQL Data Science/13 - Tratando con JSON y XML/Funciones para tratar con JSON en Postgres.md",
     "SQL Data Science/05 - Otros Tipos de Datos/Datos Jerárquicos.md",
     "SQL Data Science/13 - Tratando con JSON y XML/Aplanar una Tabla.md",
-    "SQL Data Science/13 - Tratando con JSON y XML/Tratando con JSON y XML.md",
     "SQL Data Science/12 - Enfoques no Supervisados/Enfoques no Supervisados.md",
-    "SQL Data Science/SQL Data Science.md",
     "SQL Data Science/12 - Enfoques no Supervisados/Distancias.md",
     "SQL Data Science/12 - Enfoques no Supervisados/Algoritmo de K-Means.md"
   ]
