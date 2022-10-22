@@ -21,3 +21,5 @@ The ML project lifecycle has the following stages:
 ## Referencias
 [[Scoping Stage]]
 [[Data Stage]]
+[[Modeling Stage]]
+[[Deployment Stage]]
