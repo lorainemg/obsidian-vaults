@@ -10,3 +10,4 @@ The advantage of a blue green deployment is that there's an easy way to enable 
 
 ## Referencias
 [[Deployment Stage]]
+[[Common Deployment Cases]]

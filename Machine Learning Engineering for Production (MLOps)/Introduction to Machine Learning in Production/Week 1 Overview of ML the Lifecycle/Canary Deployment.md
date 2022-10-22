@@ -9,3 +9,4 @@ In the Canary Deployment pattern you would roll out to a small fraction, maybe 5
 
 ## Referencias
 [[Deployment Stage]]
+[[Common Deployment Cases]]
