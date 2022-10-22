@@ -7,8 +7,12 @@
         "id": "e75349c90658ed19",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Awesome Falsehood/Falsehoods Programmers Believe About Software Engineering/Falsehoods Programmers Believe About Pagination.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -36,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#falsehoods",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -45,11 +49,13 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 531
+    "width": 204,
+    "collapsed": true
   },
   "right": {
     "id": "2145f247de3a4821",
@@ -65,6 +71,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Awesome Falsehood/Falsehoods Programmers Believe About Software Engineering/Falsehoods Programmers Believe About Pagination.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,6 +99,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Awesome Falsehood/Falsehoods Programmers Believe About Software Engineering/Falsehoods Programmers Believe About Pagination.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -102,7 +110,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Awesome Falsehood/Falsehoods Programmers Believe About Software Engineering/Falsehoods Programmers Believe About Pagination.md"
+              }
             }
           },
           {
@@ -130,7 +140,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       },
       {
         "id": "6d06df4d0b91598d",
@@ -148,19 +158,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 643
+    "width": 340
   },
   "active": "e75349c90658ed19",
   "lastOpenFiles": [
+    "Awesome Falsehood/Falsehoods Programmers Believe About Software Engineering/Falsehoods Programmers Believe About Pagination.md",
+    "Awesome Falsehood/Falsehoods Programmers Believe About Software Engineering/Falsehoods Programmers Believe About Software Engineering.md",
+    "Awesome Falsehood/Falsehoods Programmers Believe About Software Engineering/Falsehoods Programmers Believe About Build Systems.md",
+    "Awesome Falsehood/Falsehoods Programmers Believe About Software Engineering/Falsehoods Programmers Believe About Versions.md",
+    "Awesome Falsehood/Falsehoods Programmers Believe About Internalization/Falsehoods Programmers Believe About Language.md",
+    "Awesome Falsehood/Falsehoods Programmers Believe About Internalization/Falsehoods Programmers Believe About Internalization.md",
     "SQL Data Science/SQL Data Science.md",
     "SQL Data Science/13 - Tratando con JSON y XML/Tratando con JSON y XML.md",
     "SQL Data Science/13 - Tratando con JSON y XML/Collaborative Filtering.md",
-    "SQL Data Science/13 - Tratando con JSON y XML/Clausura Transitiva.md",
-    "SQL Data Science/13 - Tratando con JSON y XML/Funciones para tratar con JSON en Postgres.md",
-    "SQL Data Science/05 - Otros Tipos de Datos/Datos Jerárquicos.md",
-    "SQL Data Science/13 - Tratando con JSON y XML/Aplanar una Tabla.md",
-    "SQL Data Science/12 - Enfoques no Supervisados/Enfoques no Supervisados.md",
-    "SQL Data Science/12 - Enfoques no Supervisados/Distancias.md",
-    "SQL Data Science/12 - Enfoques no Supervisados/Algoritmo de K-Means.md"
+    "SQL Data Science/13 - Tratando con JSON y XML/Clausura Transitiva.md"
   ]
 }

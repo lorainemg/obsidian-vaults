@@ -1,0 +1,213 @@
+{
+  "main": {
+    "id": "8e1fcc15817f0041",
+    "type": "split",
+    "children": [
+      {
+        "id": "a2c6b78b85f12054",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b2e8ae8af1cc7c91",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Awesome Falsehood/Falsehoods Programmers Believe About Systems of Measurement.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c2b24cb9e84ffd1a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Machine Learning Engineering for Production (MLOps)/Introduction to Machine Learning in Production/Week 1 Overview of ML the Lifecycle/The ML project Lifecycle.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f7d14f0c7ca9f40e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Machine Learning Engineering for Production (MLOps)/Introduction to Machine Learning in Production/Week 1 Overview of ML the Lifecycle/The ML project Lifecycle.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "01ec9dd70a5b3531",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Machine Learning Engineering for Production (MLOps)/Introduction to Machine Learning in Production/Week 1 Overview of ML the Lifecycle/The ML project Lifecycle.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "362cc536863c1665",
+    "type": "split",
+    "children": [
+      {
+        "id": "6cc222a447f7f9f1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "540874d78a840ef2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1b77f39984534512",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 204
+  },
+  "right": {
+    "id": "2145f247de3a4821",
+    "type": "split",
+    "children": [
+      {
+        "id": "fd045bb61f0afdbe",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8126e7ec8b9e96dd",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Machine Learning Engineering for Production (MLOps)/Introduction to Machine Learning in Production/Week 1 Overview of ML the Lifecycle/The ML project Lifecycle.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0b1b590f4990333c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "db2908c65539f36e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Machine Learning Engineering for Production (MLOps)/Introduction to Machine Learning in Production/Week 1 Overview of ML the Lifecycle/The ML project Lifecycle.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f349a83a23d73761",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Machine Learning Engineering for Production (MLOps)/Introduction to Machine Learning in Production/Week 1 Overview of ML the Lifecycle/The ML project Lifecycle.md"
+              }
+            }
+          },
+          {
+            "id": "44ce34f388e36519",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "9578515a087a75b9",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "6d06df4d0b91598d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a1e082276a17ae25",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 236.5
+  },
+  "ribbon": {
+    "mostRecentAction": ""
+  },
+  "active": "01ec9dd70a5b3531",
+  "lastOpenFiles": [
+    "Machine Learning Engineering for Production (MLOps)/Introduction to Machine Learning in Production/Week 1 Overview of ML the Lifecycle/Scoping Stage.md",
+    "Machine Learning Engineering for Production (MLOps)/Introduction to Machine Learning in Production/Week 1 Overview of ML the Lifecycle/The ML project Lifecycle.md",
+    "Machine Learning Engineering for Production (MLOps)/Introduction to Machine Learning in Production/Week 1 Overview of ML the Lifecycle/Week 1 Overview of ML the Lifecycle.md",
+    "Awesome Falsehood/Falsehoods Programmers Believe About Systems of Measurement.md",
+    "Templates/Note.md",
+    "Awesome Falsehood/Falsehoods Programmers Believe About Internalization/Falsehoods Programmers Believe About Language.md",
+    "Awesome Falsehood/Falsehoods Programmers Believe About Software Engineering/Falsehoods Programmers Believe About Pagination.md",
+    "Awesome Falsehood.md",
+    "Awesome Falsehood/Falsehoods Programmers Believe About Software Engineering/Falsehoods Programmers Believe About Software Engineering.md",
+    "Awesome Falsehood/Falsehoods Programmers Believe About Software Engineering/Falsehoods Programmers Believe About Build Systems.md"
+  ]
+}

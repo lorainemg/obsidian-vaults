@@ -5,7 +5,7 @@ Topic: [[Falsehoods Programmers Believe About Internalization]]
 
 ----
 
-As is now some kind of tradition akin to “X Considered Harmful” posts of old, here I am, a software developer, writing a post trying to lay bare some of the [wrong ideas many developers hold about a broad topic](https://github.com/jameslk/awesome-falsehoods). In keeping with my degree and a personal area of interest, let’s look at some of the things (Anglophonic) developers often believe about language that do not *quite* track to reality.
+As is now some kind of tradition akin to [[SQL Data Science|“X Considered Harmful”]] posts of old, here I am, a software developer, writing a post trying to lay bare some of the [wrong ideas many developers hold about a broad topic](https://github.com/jameslk/awesome-falsehoods). In keeping with my degree and a personal area of interest, let’s look at some of the things (Anglophonic) developers often believe about language that do not *quite* track to reality.
 
 - Translating my application into other languages isn’t important.
 
