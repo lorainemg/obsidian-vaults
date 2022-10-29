@@ -8,11 +8,15 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b2e8ae8af1cc7c91",
+            "id": "c28b5b0040a3ad9c",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Machine Learning Engineering for Production (MLOps)/Introduction to Machine Learning in Production/Week 1 Overview of ML the Lifecycle/Pipeline Monitoring/Data Change Speed.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -74,6 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Machine Learning Engineering for Production (MLOps)/Introduction to Machine Learning in Production/Week 1 Overview of ML the Lifecycle/Pipeline Monitoring/Data Change Speed.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,6 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Machine Learning Engineering for Production (MLOps)/Introduction to Machine Learning in Production/Week 1 Overview of ML the Lifecycle/Pipeline Monitoring/Data Change Speed.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -111,7 +117,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Machine Learning Engineering for Production (MLOps)/Introduction to Machine Learning in Production/Week 1 Overview of ML the Lifecycle/Pipeline Monitoring/Data Change Speed.md"
+              }
             }
           },
           {
@@ -149,22 +157,22 @@
       }
     ],
     "direction": "horizontal",
-    "width": 495.5
+    "width": 200
   },
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "b2e8ae8af1cc7c91",
+  "active": "c28b5b0040a3ad9c",
   "lastOpenFiles": [
+    "Machine Learning Engineering for Production (MLOps)/Introduction to Machine Learning in Production/Week 1 Overview of ML the Lifecycle/Pipeline Monitoring/Metrics to Monitor in the Pipeline.md",
+    "Machine Learning Engineering for Production (MLOps)/Introduction to Machine Learning in Production/Week 1 Overview of ML the Lifecycle/Monitoring/Actions in Monitoring.md",
+    "Machine Learning Engineering for Production (MLOps)/Introduction to Machine Learning in Production/Week 1 Overview of ML the Lifecycle/Monitoring/Examples of Metrics to Track.md",
+    "Machine Learning Engineering for Production (MLOps)/Introduction to Machine Learning in Production/Week 1 Overview of ML the Lifecycle/Steps of an ML Project/The ML project Lifecycle.md",
     "Machine Learning Engineering for Production (MLOps)/Introduction to Machine Learning in Production/Week 1 Overview of ML the Lifecycle/Week 1 Overview of ML the Lifecycle.md",
     "Awesome Falsehood/Falsehoods Programmers Believe About Systems of Measurement.md",
-    "Machine Learning Engineering for Production (MLOps)/Introduction to Machine Learning in Production/Week 1 Overview of ML the Lifecycle/Steps of an ML Project/The ML project Lifecycle.md",
     "Machine Learning Engineering for Production (MLOps)/Introduction to Machine Learning in Production/Week 1 Overview of ML the Lifecycle/Case study speech recognition/Data Stage.md",
     "Machine Learning Engineering for Production (MLOps)/Introduction to Machine Learning in Production/Week 1 Overview of ML the Lifecycle/Case study speech recognition/Deployment Stage.md",
     "Machine Learning Engineering for Production (MLOps)/Introduction to Machine Learning in Production/Week 1 Overview of ML the Lifecycle/Key Challenges/Key Challenges.md",
-    "Machine Learning Engineering for Production (MLOps)/Introduction to Machine Learning in Production/Week 1 Overview of ML the Lifecycle/Deployment Patterns/Common Deployment Cases.md",
-    "Machine Learning Engineering for Production (MLOps)/Introduction to Machine Learning in Production/Week 1 Overview of ML the Lifecycle/Deployment Patterns/Shadow Mode Deployment.md",
-    "Machine Learning Engineering for Production (MLOps)/Introduction to Machine Learning in Production/Week 1 Overview of ML the Lifecycle/Deployment Patterns/Blue Green Deployment.md",
-    "Machine Learning Engineering for Production (MLOps)/Introduction to Machine Learning in Production/Week 1 Overview of ML the Lifecycle/Monitoring/Monitoring Dashboard.md"
+    "Machine Learning Engineering for Production (MLOps)/Introduction to Machine Learning in Production/Week 1 Overview of ML the Lifecycle/Deployment Patterns/Common Deployment Cases.md"
   ]
 }
