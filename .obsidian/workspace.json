@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b41790c24b115c12",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Machine Learning Engineering for Production (MLOps)/Introduction to Machine Learning in Production/Week 2 Select and Train a Model/Prioritizing what to work on/Data for Specific Categories.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -78,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Machine Learning Engineering for Production (MLOps)/Introduction to Machine Learning in Production/Week 2 Select and Train a Model/Error Analysis/Error Analysis Tools.md",
+                "file": "Machine Learning Engineering for Production (MLOps)/Introduction to Machine Learning in Production/Week 2 Select and Train a Model/Prioritizing what to work on/Data for Specific Categories.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Machine Learning Engineering for Production (MLOps)/Introduction to Machine Learning in Production/Week 2 Select and Train a Model/Error Analysis/Error Analysis Tools.md",
+                "file": "Machine Learning Engineering for Production (MLOps)/Introduction to Machine Learning in Production/Week 2 Select and Train a Model/Prioritizing what to work on/Data for Specific Categories.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Machine Learning Engineering for Production (MLOps)/Introduction to Machine Learning in Production/Week 2 Select and Train a Model/Error Analysis/Error Analysis Tools.md"
+                "file": "Machine Learning Engineering for Production (MLOps)/Introduction to Machine Learning in Production/Week 2 Select and Train a Model/Prioritizing what to work on/Data for Specific Categories.md"
               }
             }
           },
@@ -159,17 +172,17 @@
     "direction": "horizontal",
     "width": 200
   },
-  "active": "9928a540f0327600",
+  "active": "b41790c24b115c12",
   "lastOpenFiles": [
+    "Machine Learning Engineering for Production (MLOps)/Introduction to Machine Learning in Production/Week 2 Select and Train a Model/Prioritizing what to work on/Prioritizing what to work on.md",
+    "Machine Learning Engineering for Production (MLOps)/Introduction to Machine Learning in Production/Week 2 Select and Train a Model/Prioritizing what to work on/Data for Specific Categories.md",
+    "Machine Learning Engineering for Production (MLOps)/Introduction to Machine Learning in Production/Week 2 Select and Train a Model/Error Analysis/Error Analysis Tools.md",
     "Machine Learning Engineering for Production (MLOps)/Introduction to Machine Learning in Production/Week 2 Select and Train a Model/Error Analysis/Metrics of each Tag.md",
     "Machine Learning Engineering for Production (MLOps)/Introduction to Machine Learning in Production/Week 2 Select and Train a Model/Error Analysis/Process of Error Analysis.md",
-    "Machine Learning Engineering for Production (MLOps)/Introduction to Machine Learning in Production/Week 2 Select and Train a Model/Error Analysis/Error Analysis Tools.md",
     "Machine Learning Engineering for Production (MLOps)/Introduction to Machine Learning in Production/Week 2 Select and Train a Model/Tips for getting started/Sanity-Check for Code and Algorithm.md",
     "Machine Learning Engineering for Production (MLOps)/Introduction to Machine Learning in Production/Week 2 Select and Train a Model/Tips for getting started/Deployment Constraints when Picking a Model.md",
     "Machine Learning Engineering for Production (MLOps)/Introduction to Machine Learning in Production/Week 2 Select and Train a Model/Tips for getting started/Getting Started on Modeling.md",
     "Machine Learning Engineering for Production (MLOps)/Introduction to Machine Learning in Production/Week 1 Overview of ML the Lifecycle/Case study speech recognition/Modeling Stage.md",
-    "Machine Learning Engineering for Production (MLOps)/Introduction to Machine Learning in Production/Week 2 Select and Train a Model/Key Challenges/Challenges in Model Development.md",
-    "Machine Learning Engineering for Production (MLOps)/Introduction to Machine Learning in Production/Week 1 Overview of ML the Lifecycle/Deployment Patterns/Shadow Mode Deployment.md",
-    "Machine Learning Engineering for Production (MLOps)/Introduction to Machine Learning in Production/Week 2 Select and Train a Model/Week 2 Select and Train a Model.md"
+    "Machine Learning Engineering for Production (MLOps)/Introduction to Machine Learning in Production/Week 2 Select and Train a Model/Key Challenges/Challenges in Model Development.md"
   ]
 }
