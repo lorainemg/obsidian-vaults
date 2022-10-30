@@ -4,47 +4,83 @@
     "type": "split",
     "children": [
       {
-        "id": "5d53db4a79dd1909",
+        "id": "abde6fdab0b8e1d7",
         "type": "tabs",
         "children": [
           {
-            "id": "f8dbf07581c0544d",
+            "id": "bcad094fc8aaab7c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Machine Learning Engineering for Production (MLOps)/Introduction to Machine Learning in Production/Week 2 Select and Train a Model/Skewed datasets/Harmonic Mean.md",
+                "file": "Machine Learning Engineering for Production (MLOps)/Introduction to Machine Learning in Production/Week 2 Select and Train a Model/Data Iteration/Data-centric AI development.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "e3a4d0e7647027ce",
+            "id": "e2664f3c162a8b8e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Machine Learning Engineering for Production (MLOps)/Introduction to Machine Learning in Production/Week 2 Select and Train a Model/Performance Auditing/Auditing Framework.md",
+                "file": "Machine Learning Engineering for Production (MLOps)/Introduction to Machine Learning in Production/Week 2 Select and Train a Model/Data Iteration/Data Augmentation/Combining Examples.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "feec2581c2ce711b",
+            "id": "8f6c2b028f6bf7f0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Machine Learning Engineering for Production (MLOps)/Introduction to Machine Learning in Production/Week 2 Select and Train a Model/Performance Auditing/Speech Recognition Example.md",
+                "file": "Machine Learning Engineering for Production (MLOps)/Introduction to Machine Learning in Production/Week 2 Select and Train a Model/Data Iteration/Data Augmentation/Data Augmentation Advices.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "eb7b9eb7c6904755",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Machine Learning Engineering for Production (MLOps)/Introduction to Machine Learning in Production/Week 2 Select and Train a Model/Data Iteration/Data Augmentation/Data Iteration Loop.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "954374adceef5fec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Machine Learning Engineering for Production (MLOps)/Introduction to Machine Learning in Production/Week 2 Select and Train a Model/Data Iteration/Data Augmentation/Can Add Data Hurt.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f8dff713def8e0ea",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Machine Learning Engineering for Production (MLOps)/Introduction to Machine Learning in Production/Week 2 Select and Train a Model/Selecting and Training a Model/Establish a Baseline.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -86,7 +122,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 247.5
+    "width": 472
   },
   "right": {
     "id": "2145f247de3a4821",
@@ -102,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Machine Learning Engineering for Production (MLOps)/Introduction to Machine Learning in Production/Week 2 Select and Train a Model/Performance Auditing/Speech Recognition Example.md",
+                "file": "Machine Learning Engineering for Production (MLOps)/Introduction to Machine Learning in Production/Week 2 Select and Train a Model/Selecting and Training a Model/Establish a Baseline.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +166,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Machine Learning Engineering for Production (MLOps)/Introduction to Machine Learning in Production/Week 2 Select and Train a Model/Performance Auditing/Speech Recognition Example.md",
+                "file": "Machine Learning Engineering for Production (MLOps)/Introduction to Machine Learning in Production/Week 2 Select and Train a Model/Selecting and Training a Model/Establish a Baseline.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Machine Learning Engineering for Production (MLOps)/Introduction to Machine Learning in Production/Week 2 Select and Train a Model/Performance Auditing/Speech Recognition Example.md"
+                "file": "Machine Learning Engineering for Production (MLOps)/Introduction to Machine Learning in Production/Week 2 Select and Train a Model/Selecting and Training a Model/Establish a Baseline.md"
               }
             }
           },
@@ -183,17 +219,17 @@
     "direction": "horizontal",
     "width": 200
   },
-  "active": "feec2581c2ce711b",
+  "active": "f8dff713def8e0ea",
   "lastOpenFiles": [
-    "Machine Learning Engineering for Production (MLOps)/Introduction to Machine Learning in Production/Week 2 Select and Train a Model/Performance Auditing/Auditing Framework.md",
+    "Machine Learning Engineering for Production (MLOps)/Introduction to Machine Learning in Production/Week 2 Select and Train a Model/Data Iteration/Data Augmentation/Can Add Data Hurt.md",
+    "Machine Learning Engineering for Production (MLOps)/Introduction to Machine Learning in Production/Week 2 Select and Train a Model/Data Iteration/Data Augmentation/Combining Examples.md",
+    "Machine Learning Engineering for Production (MLOps)/Introduction to Machine Learning in Production/Week 2 Select and Train a Model/Data Iteration/Data Augmentation/Data Augmentation Advices.md",
+    "Machine Learning Engineering for Production (MLOps)/Introduction to Machine Learning in Production/Week 2 Select and Train a Model/Data Iteration/Data Augmentation/Data Iteration Loop.md",
+    "Machine Learning Engineering for Production (MLOps)/Introduction to Machine Learning in Production/Week 2 Select and Train a Model/Data Iteration/Data-centric AI development.md",
+    "Machine Learning Engineering for Production (MLOps)/Introduction to Machine Learning in Production/Week 2 Select and Train a Model/Error Analysis and Performance Auditing/Speech Recognition Example.md",
+    "Machine Learning Engineering for Production (MLOps)/Introduction to Machine Learning in Production/Week 2 Select and Train a Model/Error Analysis and Performance Auditing/Harmonic Mean.md",
+    "Machine Learning Engineering for Production (MLOps)/Introduction to Machine Learning in Production/Week 2 Select and Train a Model/Error Analysis and Performance Auditing/Auditing Framework.md",
     "Machine Learning Engineering for Production (MLOps)/Introduction to Machine Learning in Production/Week 2 Select and Train a Model/Untitled.md",
-    "Machine Learning Engineering for Production (MLOps)/Introduction to Machine Learning in Production/Week 2 Select and Train a Model/Skewed datasets/Harmonic Mean.md",
-    "Machine Learning Engineering for Production (MLOps)/Introduction to Machine Learning in Production/Week 2 Select and Train a Model/Error Analysis/Error Analysis Tools.md",
-    "Machine Learning Engineering for Production (MLOps)/Introduction to Machine Learning in Production/Week 2 Select and Train a Model/Prioritizing what to work on/Data for Specific Categories.md",
-    "Machine Learning Engineering for Production (MLOps)/Introduction to Machine Learning in Production/Week 2 Select and Train a Model/Prioritizing what to work on/Prioritizing what to work on.md",
-    "Machine Learning Engineering for Production (MLOps)/Introduction to Machine Learning in Production/Week 2 Select and Train a Model/Error Analysis/Metrics of each Tag.md",
-    "Machine Learning Engineering for Production (MLOps)/Introduction to Machine Learning in Production/Week 2 Select and Train a Model/Error Analysis/Process of Error Analysis.md",
-    "Machine Learning Engineering for Production (MLOps)/Introduction to Machine Learning in Production/Week 2 Select and Train a Model/Tips for getting started/Sanity-Check for Code and Algorithm.md",
-    "Machine Learning Engineering for Production (MLOps)/Introduction to Machine Learning in Production/Week 2 Select and Train a Model/Tips for getting started/Deployment Constraints when Picking a Model.md"
+    "Machine Learning Engineering for Production (MLOps)/Introduction to Machine Learning in Production/Week 2 Select and Train a Model/Error Analysis and Performance Auditing/Error Analysis Tools.md"
   ]
 }
