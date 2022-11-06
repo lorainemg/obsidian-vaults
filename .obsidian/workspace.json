@@ -126,9 +126,45 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "04e509d4571753e4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Machine Learning Engineering for Production (MLOps)/Introduction to Machine Learning in Production/Week 3 Data Definition and Baseline/Define Data and Establish a Baseline/Small Data vs Big Data (Unstructured).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "acc28bdec251edd1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Machine Learning Engineering for Production (MLOps)/Introduction to Machine Learning in Production/Week 3 Data Definition and Baseline/Define Data and Establish a Baseline/Human Level Performance.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ee9843dffba40098",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Machine Learning Engineering for Production (MLOps)/Introduction to Machine Learning in Production/Week 3 Data Definition and Baseline/Define Data and Establish a Baseline/Uses of HLP.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 9
+        "currentTab": 12
       }
     ],
     "direction": "vertical"
@@ -186,7 +222,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Machine Learning Engineering for Production (MLOps)/Introduction to Machine Learning in Production/Week 3 Data Definition and Baseline/Define Data and Establish a Baseline/Improving Label Consistency.md",
+                "file": "Machine Learning Engineering for Production (MLOps)/Introduction to Machine Learning in Production/Week 3 Data Definition and Baseline/Define Data and Establish a Baseline/Uses of HLP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -214,7 +250,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Machine Learning Engineering for Production (MLOps)/Introduction to Machine Learning in Production/Week 3 Data Definition and Baseline/Define Data and Establish a Baseline/Improving Label Consistency.md",
+                "file": "Machine Learning Engineering for Production (MLOps)/Introduction to Machine Learning in Production/Week 3 Data Definition and Baseline/Define Data and Establish a Baseline/Uses of HLP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -226,7 +262,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Machine Learning Engineering for Production (MLOps)/Introduction to Machine Learning in Production/Week 3 Data Definition and Baseline/Define Data and Establish a Baseline/Improving Label Consistency.md"
+                "file": "Machine Learning Engineering for Production (MLOps)/Introduction to Machine Learning in Production/Week 3 Data Definition and Baseline/Define Data and Establish a Baseline/Uses of HLP.md"
               }
             }
           },
@@ -267,17 +303,17 @@
     "direction": "horizontal",
     "width": 200
   },
-  "active": "70b23161afd6aa92",
+  "active": "ee9843dffba40098",
   "lastOpenFiles": [
+    "Machine Learning Engineering for Production (MLOps)/Introduction to Machine Learning in Production/Week 3 Data Definition and Baseline/Define Data and Establish a Baseline/Human Level Performance.md",
+    "Machine Learning Engineering for Production (MLOps)/Introduction to Machine Learning in Production/Week 3 Data Definition and Baseline/Define Data and Establish a Baseline/Small Data vs Big Data (Unstructured).md",
+    "Machine Learning Engineering for Production (MLOps)/Introduction to Machine Learning in Production/Week 3 Data Definition and Baseline/Define Data and Establish a Baseline/Improving Label Consistency.md",
     "Machine Learning Engineering for Production (MLOps)/Introduction to Machine Learning in Production/Week 3 Data Definition and Baseline/Define Data and Establish a Baseline/Big Data Problems with Small Challenges.md",
     "Machine Learning Engineering for Production (MLOps)/Introduction to Machine Learning in Production/Week 3 Data Definition and Baseline/Define Data and Establish a Baseline/Why Label Consistency is Important.md",
     "Machine Learning Engineering for Production (MLOps)/Introduction to Machine Learning in Production/Week 3 Data Definition and Baseline/Define Data and Establish a Baseline/Data Definition Questions.md",
     "Machine Learning Engineering for Production (MLOps)/Introduction to Machine Learning in Production/Week 3 Data Definition and Baseline/Define Data and Establish a Baseline/Major Types of Data Problems.md",
     "Machine Learning Engineering for Production (MLOps)/Introduction to Machine Learning in Production/Week 3 Data Definition and Baseline/Define Data and Establish a Baseline/Unstructured vs Structured Data.md",
     "Machine Learning Engineering for Production (MLOps)/Introduction to Machine Learning in Production/Week 3 Data Definition and Baseline/Define Data and Establish a Baseline/Small Data vs Big Data.md",
-    "Machine Learning Engineering for Production (MLOps)/Introduction to Machine Learning in Production/Week 3 Data Definition and Baseline/img/Pasted image 20221106141252.png",
-    "Machine Learning Engineering for Production (MLOps)/Introduction to Machine Learning in Production/Week 3 Data Definition and Baseline/img/Pasted image 20221106141334.png",
-    "Machine Learning Engineering for Production (MLOps)/Introduction to Machine Learning in Production/Week 3 Data Definition and Baseline/Week 3 Data Definition and Baseline.md",
-    "Machine Learning Engineering for Production (MLOps)/Introduction to Machine Learning in Production/Week 2 Select and Train a Model/Week 2 Select and Train a Model.md"
+    "Machine Learning Engineering for Production (MLOps)/Introduction to Machine Learning in Production/Week 3 Data Definition and Baseline/img/Pasted image 20221106141252.png"
   ]
 }
