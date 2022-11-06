@@ -11,7 +11,7 @@ Topic: [[Week 3 Data Definition and Baseline]]
 
 ## Structured Data
 - May be more difficult to obtain more data.
-- Human labeling may not bo possible (with some exceptions)
+- Human labeling may not be possible (with some exceptions)
 
 ## Referencias
 [[Major Types of Data Problems]]
