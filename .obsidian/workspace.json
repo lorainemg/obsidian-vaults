@@ -128,6 +128,78 @@
             }
           },
           {
+            "id": "4ff476af1607c1cb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Machine Learning Engineering for Production (MLOps)/2 - Machine Learning Data Lifecycle in Production/Week 1 Collecting, Labeling and Validating Data/Data Collecting/ML Software.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "239e696d48ce9999",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Machine Learning Engineering for Production (MLOps)/2 - Machine Learning Data Lifecycle in Production/Week 1 Collecting, Labeling and Validating Data/Data Collecting/Meaningful Data.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7f68aeda8a5677eb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Machine Learning Engineering for Production (MLOps)/2 - Machine Learning Data Lifecycle in Production/Week 1 Collecting, Labeling and Validating Data/Data Collecting/Key Points About Data Importance.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "353ee0327a1e0855",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Machine Learning Engineering for Production (MLOps)/2 - Machine Learning Data Lifecycle in Production/Week 1 Collecting, Labeling and Validating Data/Data Collecting/Key Considerations About Data Collection.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "74e5cd1e07a5052e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Machine Learning Engineering for Production (MLOps)/2 - Machine Learning Data Lifecycle in Production/Week 1 Collecting, Labeling and Validating Data/Data Collecting/Measure Data Effectiveness.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bde8448478a4e89c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Machine Learning Engineering for Production (MLOps)/2 - Machine Learning Data Lifecycle in Production/Week 1 Collecting, Labeling and Validating Data/Data Collecting/Meaningful Data.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "ac2657dccb414dda",
             "type": "leaf",
             "state": {
@@ -140,7 +212,7 @@
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 15
       }
     ],
     "direction": "vertical"
@@ -198,7 +270,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Machine Learning Engineering for Production (MLOps)/2 - Machine Learning Data Lifecycle in Production/Week 1 Collecting, Labeling and Validating Data/Introduction to MLOps/TFX Production Components.md",
+                "file": "Machine Learning Engineering for Production (MLOps)/2 - Machine Learning Data Lifecycle in Production/Week 1 Collecting, Labeling and Validating Data/Data Collecting/Meaningful Data.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -226,7 +298,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Machine Learning Engineering for Production (MLOps)/2 - Machine Learning Data Lifecycle in Production/Week 1 Collecting, Labeling and Validating Data/Introduction to MLOps/TFX Production Components.md",
+                "file": "Machine Learning Engineering for Production (MLOps)/2 - Machine Learning Data Lifecycle in Production/Week 1 Collecting, Labeling and Validating Data/Data Collecting/Meaningful Data.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -238,7 +310,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Machine Learning Engineering for Production (MLOps)/2 - Machine Learning Data Lifecycle in Production/Week 1 Collecting, Labeling and Validating Data/Introduction to MLOps/TFX Production Components.md"
+                "file": "Machine Learning Engineering for Production (MLOps)/2 - Machine Learning Data Lifecycle in Production/Week 1 Collecting, Labeling and Validating Data/Data Collecting/Meaningful Data.md"
               }
             }
           },
@@ -279,17 +351,17 @@
     "width": 317.5,
     "collapsed": true
   },
-  "active": "06b2f7488a03f0f2",
+  "active": "bde8448478a4e89c",
   "lastOpenFiles": [
+    "Machine Learning Engineering for Production (MLOps)/2 - Machine Learning Data Lifecycle in Production/Week 1 Collecting, Labeling and Validating Data/Data Collecting/Measure Data Effectiveness.md",
+    "Machine Learning Engineering for Production (MLOps)/2 - Machine Learning Data Lifecycle in Production/Week 1 Collecting, Labeling and Validating Data/Data Collecting/Meaningful Data.md",
+    "Machine Learning Engineering for Production (MLOps)/2 - Machine Learning Data Lifecycle in Production/Week 1 Collecting, Labeling and Validating Data/Data Collecting/Key Points About Data Importance.md",
+    "Machine Learning Engineering for Production (MLOps)/2 - Machine Learning Data Lifecycle in Production/Week 1 Collecting, Labeling and Validating Data/Data Collecting/Key Considerations About Data Collection.md",
+    "Machine Learning Engineering for Production (MLOps)/2 - Machine Learning Data Lifecycle in Production/Week 1 Collecting, Labeling and Validating Data/Data Collecting/Key Points Analyzing a Problem.md",
+    "Machine Learning Engineering for Production (MLOps)/2 - Machine Learning Data Lifecycle in Production/Week 1 Collecting, Labeling and Validating Data/Data Collecting/ML Software.md",
+    "Machine Learning Engineering for Production (MLOps)/2 - Machine Learning Data Lifecycle in Production/Week 1 Collecting, Labeling and Validating Data/Introduction to MLOps/TFX Production Components.md",
     "Machine Learning Engineering for Production (MLOps)/2 - Machine Learning Data Lifecycle in Production/Week 1 Collecting, Labeling and Validating Data/Introduction to MLOps/TFX.md",
     "Machine Learning Engineering for Production (MLOps)/2 - Machine Learning Data Lifecycle in Production/Week 1 Collecting, Labeling and Validating Data/Introduction to MLOps/Orchestration.md",
-    "Machine Learning Engineering for Production (MLOps)/2 - Machine Learning Data Lifecycle in Production/Week 1 Collecting, Labeling and Validating Data/Introduction to MLOps/Production ML Infrastructure.md",
-    "Machine Learning Engineering for Production (MLOps)/2 - Machine Learning Data Lifecycle in Production/Week 1 Collecting, Labeling and Validating Data/Introduction to MLOps/Challenges in Production ML.md",
-    "Machine Learning Engineering for Production (MLOps)/2 - Machine Learning Data Lifecycle in Production/Week 1 Collecting, Labeling and Validating Data/Introduction to MLOps/Modern Software Development.md",
-    "Machine Learning Engineering for Production (MLOps)/2 - Machine Learning Data Lifecycle in Production/Week 1 Collecting, Labeling and Validating Data/Introduction to MLOps/Challenges in the Entire Life Cycle of Data.md",
-    "Machine Learning Engineering for Production (MLOps)/2 - Machine Learning Data Lifecycle in Production/Week 1 Collecting, Labeling and Validating Data/Introduction to MLOps/ML modeling vs production ML.md",
-    "Machine Learning Engineering for Production (MLOps)/2 - Machine Learning Data Lifecycle in Production/Week 1 Collecting, Labeling and Validating Data/Introduction to MLOps/What Production ML Requires.md",
-    "Machine Learning Engineering for Production (MLOps)/2 - Machine Learning Data Lifecycle in Production/Week 1 Collecting, Labeling and Validating Data/Introduction to MLOps/The MLOps Process.md",
-    "Machine Learning Engineering for Production (MLOps)/1 - Introduction to Machine Learning in Production/Week 1 Overview of ML the Lifecycle/Steps of an ML Project/The ML project Lifecycle.md"
+    "Machine Learning Engineering for Production (MLOps)/2 - Machine Learning Data Lifecycle in Production/Week 1 Collecting, Labeling and Validating Data/Introduction to MLOps/Production ML Infrastructure.md"
   ]
 }
