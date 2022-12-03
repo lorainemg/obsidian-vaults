@@ -239,9 +239,65 @@
             "id": "c6daa217af46de40",
             "type": "leaf",
             "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "5cfcb29bb5529752",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "Machine Learning Engineering for Production (MLOps)/2 - Machine Learning Data Lifecycle in Production/Week 1 Collecting, Labeling and Validating Data/Labeling Data/Labeling Types.md",
+                "file": "Machine Learning Engineering for Production (MLOps)/2 - Machine Learning Data Lifecycle in Production/Week 1 Collecting, Labeling and Validating Data/Validating Data/Drift and Skew Definition.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "69c9f81471d63b79",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Machine Learning Engineering for Production (MLOps)/2 - Machine Learning Data Lifecycle in Production/Week 1 Collecting, Labeling and Validating Data/Validating Data/Model Decay.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2d5ceaf93856e930",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Machine Learning Engineering for Production (MLOps)/2 - Machine Learning Data Lifecycle in Production/Week 1 Collecting, Labeling and Validating Data/Validating Data/Concept Drift Definition.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "080312cea2bcf85a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Machine Learning Engineering for Production (MLOps)/2 - Machine Learning Data Lifecycle in Production/Week 1 Collecting, Labeling and Validating Data/Validating Data/Detecting Data Issues.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f58fe751510290f0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Machine Learning Engineering for Production (MLOps)/2 - Machine Learning Data Lifecycle in Production/Week 1 Collecting, Labeling and Validating Data/Validating Data/Detecting Distribution Skew.md",
                 "mode": "source",
                 "source": false
               }
@@ -260,7 +316,7 @@
             }
           }
         ],
-        "currentTab": 19
+        "currentTab": 24
       }
     ],
     "direction": "vertical"
@@ -302,7 +358,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 224.5
+    "width": 446.50418853759766
   },
   "right": {
     "id": "2145f247de3a4821",
@@ -318,7 +374,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Machine Learning Engineering for Production (MLOps)/2 - Machine Learning Data Lifecycle in Production/Week 1 Collecting, Labeling and Validating Data/Labeling Data/Labeling Types.md",
+                "file": "Machine Learning Engineering for Production (MLOps)/2 - Machine Learning Data Lifecycle in Production/Week 1 Collecting, Labeling and Validating Data/Validating Data/Detecting Distribution Skew.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -346,7 +402,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Machine Learning Engineering for Production (MLOps)/2 - Machine Learning Data Lifecycle in Production/Week 1 Collecting, Labeling and Validating Data/Labeling Data/Labeling Types.md",
+                "file": "Machine Learning Engineering for Production (MLOps)/2 - Machine Learning Data Lifecycle in Production/Week 1 Collecting, Labeling and Validating Data/Validating Data/Detecting Distribution Skew.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -358,7 +414,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Machine Learning Engineering for Production (MLOps)/2 - Machine Learning Data Lifecycle in Production/Week 1 Collecting, Labeling and Validating Data/Labeling Data/Labeling Types.md"
+                "file": "Machine Learning Engineering for Production (MLOps)/2 - Machine Learning Data Lifecycle in Production/Week 1 Collecting, Labeling and Validating Data/Validating Data/Detecting Distribution Skew.md"
               }
             }
           },
@@ -399,17 +455,17 @@
     "direction": "horizontal",
     "width": 317.5
   },
-  "active": "c6daa217af46de40",
+  "active": "f58fe751510290f0",
   "lastOpenFiles": [
+    "Machine Learning Engineering for Production (MLOps)/2 - Machine Learning Data Lifecycle in Production/Week 1 Collecting, Labeling and Validating Data/Validating Data/Detecting Data Issues.md",
+    "Machine Learning Engineering for Production (MLOps)/2 - Machine Learning Data Lifecycle in Production/Week 1 Collecting, Labeling and Validating Data/Validating Data/Concept Drift Definition.md",
+    "Machine Learning Engineering for Production (MLOps)/2 - Machine Learning Data Lifecycle in Production/Week 1 Collecting, Labeling and Validating Data/Validating Data/Model Decay.md",
+    "Machine Learning Engineering for Production (MLOps)/2 - Machine Learning Data Lifecycle in Production/Week 1 Collecting, Labeling and Validating Data/Validating Data/Drift and Skew Definition.md",
+    "Machine Learning Engineering for Production (MLOps)/2 - Machine Learning Data Lifecycle in Production/Week 1 Collecting, Labeling and Validating Data/Data Collecting/Key Points About Data Importance.md",
+    "Machine Learning Engineering for Production (MLOps)/2 - Machine Learning Data Lifecycle in Production/Week 1 Collecting, Labeling and Validating Data/Labeling Data/Labeling Types.md",
     "Machine Learning Engineering for Production (MLOps)/2 - Machine Learning Data Lifecycle in Production/Week 1 Collecting, Labeling and Validating Data/Labeling Data/ML Problems.md",
     "Machine Learning Engineering for Production (MLOps)/2 - Machine Learning Data Lifecycle in Production/Week 1 Collecting, Labeling and Validating Data/Labeling Data/Importance of Understand the Model.md",
     "Machine Learning Engineering for Production (MLOps)/2 - Machine Learning Data Lifecycle in Production/Week 1 Collecting, Labeling and Validating Data/Labeling Data/Data Kind of Problems.md",
-    "Machine Learning Engineering for Production (MLOps)/2 - Machine Learning Data Lifecycle in Production/Week 1 Collecting, Labeling and Validating Data/Data Collecting/Key Points About Data Importance.md",
-    "Machine Learning Engineering for Production (MLOps)/2 - Machine Learning Data Lifecycle in Production/Week 1 Collecting, Labeling and Validating Data/Introduction to MLOps/Challenges in Production ML.md",
-    "Machine Learning Engineering for Production (MLOps)/2 - Machine Learning Data Lifecycle in Production/Week 1 Collecting, Labeling and Validating Data/Data Collecting/Meaningful Data.md",
-    "Machine Learning Engineering for Production (MLOps)/2 - Machine Learning Data Lifecycle in Production/Week 1 Collecting, Labeling and Validating Data/Data Collecting/Measure Data Effectiveness.md",
-    "Machine Learning Engineering for Production (MLOps)/2 - Machine Learning Data Lifecycle in Production/Week 1 Collecting, Labeling and Validating Data/Data Collecting/Key Considerations About Data Collection.md",
-    "Machine Learning Engineering for Production (MLOps)/2 - Machine Learning Data Lifecycle in Production/Week 1 Collecting, Labeling and Validating Data/Data Collecting/Key Points Analyzing a Problem.md",
-    "Machine Learning Engineering for Production (MLOps)/2 - Machine Learning Data Lifecycle in Production/Week 1 Collecting, Labeling and Validating Data/Data Collecting/ML Software.md"
+    "Machine Learning Engineering for Production (MLOps)/2 - Machine Learning Data Lifecycle in Production/Week 1 Collecting, Labeling and Validating Data/Introduction to MLOps/Challenges in Production ML.md"
   ]
 }
