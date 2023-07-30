@@ -11,11 +11,28 @@
             "id": "917d0ed3923dae9c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Machine Learning Engineering for Production (MLOps)/1 - Introduction to Machine Learning in Production/Week 1 Overview of ML the Lifecycle/Pipeline Monitoring/Metrics to Monitor in the Pipeline.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "46261435f1b49642",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Machine Learning Engineering for Production (MLOps)/2 - Machine Learning Data Lifecycle in Production/Week 2 Feature Engineering, Transformation and Selection/Feature Transformation at Scale/Preprocessing Data at Scale/Preprocessing Granularity.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -52,6 +69,14 @@
                 "sortOrder": "alphabetical"
               }
             }
+          },
+          {
+            "id": "2c5019cc9feef633",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
@@ -73,6 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Machine Learning Engineering for Production (MLOps)/2 - Machine Learning Data Lifecycle in Production/Week 2 Feature Engineering, Transformation and Selection/Feature Transformation at Scale/Preprocessing Data at Scale/Preprocessing Granularity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,6 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Machine Learning Engineering for Production (MLOps)/2 - Machine Learning Data Lifecycle in Production/Week 2 Feature Engineering, Transformation and Selection/Feature Transformation at Scale/Preprocessing Data at Scale/Preprocessing Granularity.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,7 +137,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Machine Learning Engineering for Production (MLOps)/2 - Machine Learning Data Lifecycle in Production/Week 2 Feature Engineering, Transformation and Selection/Feature Transformation at Scale/Preprocessing Data at Scale/Preprocessing Granularity.md"
+              }
             }
           },
           {
@@ -122,15 +151,14 @@
             }
           },
           {
-            "id": "9578515a087a75b9",
+            "id": "4096e41397493dfb",
             "type": "leaf",
             "state": {
               "type": "todo",
               "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       },
       {
         "id": "6d06df4d0b91598d",
@@ -148,19 +176,54 @@
       }
     ],
     "direction": "horizontal",
-    "width": 317.5
+    "width": 541.5
   },
-  "active": "917d0ed3923dae9c",
+  "left-ribbon": {
+    "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "random-note:Open random note": false
+    }
+  },
+  "active": "46261435f1b49642",
   "lastOpenFiles": [
-    "Machine Learning Engineering for Production (MLOps)/2 - Machine Learning Data Lifecycle in Production/Week 1 Collecting, Labeling and Validating Data/Introduction to MLOps/The MLOps Process.md",
-    "Machine Learning Engineering for Production (MLOps)/2 - Machine Learning Data Lifecycle in Production/Week 1 Collecting, Labeling and Validating Data/Introduction to MLOps/What Production ML Requires.md",
-    "Machine Learning Engineering for Production (MLOps)/2 - Machine Learning Data Lifecycle in Production/Week 1 Collecting, Labeling and Validating Data/Introduction to MLOps/ML modeling vs production ML.md",
-    "Machine Learning Engineering for Production (MLOps)/2 - Machine Learning Data Lifecycle in Production/Week 1 Collecting, Labeling and Validating Data/Introduction to MLOps/Challenges in the Entire Life Cycle of Data.md",
-    "Machine Learning Engineering for Production (MLOps)/2 - Machine Learning Data Lifecycle in Production/Week 1 Collecting, Labeling and Validating Data/Introduction to MLOps/Modern Software Development.md",
-    "Machine Learning Engineering for Production (MLOps)/2 - Machine Learning Data Lifecycle in Production/Week 1 Collecting, Labeling and Validating Data/Introduction to MLOps/Challenges in Production ML.md",
-    "Machine Learning Engineering for Production (MLOps)/2 - Machine Learning Data Lifecycle in Production/Week 1 Collecting, Labeling and Validating Data/Introduction to MLOps/Production ML Infrastructure.md",
-    "Machine Learning Engineering for Production (MLOps)/2 - Machine Learning Data Lifecycle in Production/Week 1 Collecting, Labeling and Validating Data/Introduction to MLOps/Orchestration.md",
-    "Machine Learning Engineering for Production (MLOps)/2 - Machine Learning Data Lifecycle in Production/Week 1 Collecting, Labeling and Validating Data/Introduction to MLOps/TFX.md",
-    "Machine Learning Engineering for Production (MLOps)/2 - Machine Learning Data Lifecycle in Production/Week 1 Collecting, Labeling and Validating Data/Introduction to MLOps/TFX Production Components.md"
+    "Machine Learning Engineering for Production (MLOps)/2 - Machine Learning Data Lifecycle in Production/Week 2 Feature Engineering, Transformation and Selection/Feature Transformation at Scale/Preprocessing Data at Scale/Preprocessing Data at Scale Components.md",
+    "Machine Learning Engineering for Production (MLOps)/2 - Machine Learning Data Lifecycle in Production/Week 2 Feature Engineering, Transformation and Selection/Feature Transformation at Scale/Preprocessing Data at Scale/Optimizing Instance-Level Transformations.md",
+    "Machine Learning Engineering for Production (MLOps)/2 - Machine Learning Data Lifecycle in Production/Week 2 Feature Engineering, Transformation and Selection/Feature Transformation at Scale/Preprocessing Data at Scale/Outline.md",
+    "Machine Learning Engineering for Production (MLOps)/2 - Machine Learning Data Lifecycle in Production/Week 2 Feature Engineering, Transformation and Selection/Feature Transformation at Scale/Preprocessing Data at Scale/Key Points.md",
+    "Machine Learning Engineering for Production (MLOps)/2 - Machine Learning Data Lifecycle in Production/Week 2 Feature Engineering, Transformation and Selection/Feature Transformation at Scale/Preprocessing Data at Scale/Summarizing the Challenges.md",
+    "Machine Learning Engineering for Production (MLOps)/2 - Machine Learning Data Lifecycle in Production/Week 2 Feature Engineering, Transformation and Selection/Feature Transformation at Scale/Preprocessing Data at Scale/Batch Transforming.md",
+    "Machine Learning Engineering for Production (MLOps)/2 - Machine Learning Data Lifecycle in Production/Week 2 Feature Engineering, Transformation and Selection/Feature Transformation at Scale/Preprocessing Data at Scale/When to Transform.md",
+    "Machine Learning Engineering for Production (MLOps)/2 - Machine Learning Data Lifecycle in Production/Week 2 Feature Engineering, Transformation and Selection/Feature Transformation at Scale/Preprocessing Data at Scale/Inconsistencies in Feature Engineering.md",
+    "Machine Learning Engineering for Production (MLOps)/2 - Machine Learning Data Lifecycle in Production/Week 2 Feature Engineering, Transformation and Selection/Feature Transformation at Scale/Preprocessing Data at Scale/Preprocessing Granularity.md",
+    "Machine Learning Engineering for Production (MLOps)/2 - Machine Learning Data Lifecycle in Production/Week 2 Feature Engineering, Transformation and Selection/Feature Transformation at Scale/Preprocessing Data at Scale/Untitled.md",
+    "Machine Learning Engineering for Production (MLOps)/2 - Machine Learning Data Lifecycle in Production/Week 2 Feature Engineering, Transformation and Selection/Feature Transformation at Scale/Preprocessing Data at Scale/PUntitled.md",
+    "Machine Learning Engineering for Production (MLOps)/2 - Machine Learning Data Lifecycle in Production/Week 2 Feature Engineering, Transformation and Selection/Feature Transformation at Scale/Feature Transformation at Scale.md",
+    "Machine Learning Engineering for Production (MLOps)/2 - Machine Learning Data Lifecycle in Production/Week 2 Feature Engineering, Transformation and Selection/Feature Transformation at Scale/Preprocessing Data at Scale",
+    "Machine Learning Engineering for Production (MLOps)/2 - Machine Learning Data Lifecycle in Production/Week 2 Feature Engineering, Transformation and Selection/Feature Engineering/Feature Engineering.md",
+    "Machine Learning Engineering for Production (MLOps)/2 - Machine Learning Data Lifecycle in Production/Week 2 Feature Engineering, Transformation and Selection/Feature Transformation at Scale",
+    "Machine Learning Engineering for Production (MLOps)/2 - Machine Learning Data Lifecycle in Production/Machine Learning Data Lifecycle in Production.md",
+    "Machine Learning Engineering for Production (MLOps)/2 - Machine Learning Data Lifecycle in Production/Week 2 Feature Engineering, Transformation and Selection/Week 2 Feature Engineering, Transformation and Selection.md",
+    "Machine Learning Engineering for Production (MLOps)/2 - Machine Learning Data Lifecycle in Production/Week 2 Feature Engineering, Transformation and Selection/Feature Engineering/Feature Crosses/Outline.md",
+    "Machine Learning Engineering for Production (MLOps)/2 - Machine Learning Data Lifecycle in Production/Week 2 Feature Engineering, Transformation and Selection/Feature Engineering",
+    "Machine Learning Engineering for Production (MLOps)/2 - Machine Learning Data Lifecycle in Production/Week 2 Feature Engineering, Transformation and Selection/Feature Engineering/Feature Crosses/Feature Crossing.md",
+    "Machine Learning Engineering for Production (MLOps)/2 - Machine Learning Data Lifecycle in Production/Week 2 Feature Engineering, Transformation and Selection/Feature Engineering/Feature Engineering Techniques/Outline.md",
+    "Machine Learning Engineering for Production (MLOps)/2 - Machine Learning Data Lifecycle in Production/Week 2 Feature Engineering, Transformation and Selection/Feature Engineering/Feature Crosses",
+    "Machine Learning Engineering for Production (MLOps)/2 - Machine Learning Data Lifecycle in Production/Week 2 Feature Engineering, Transformation and Selection/Feature Engineering/Feature Engineering Techniques/Tensorflow Embedding Projector.md",
+    "Machine Learning Engineering for Production (MLOps)/2 - Machine Learning Data Lifecycle in Production/Week 2 Feature Engineering, Transformation and Selection/Feature Engineering Techniques/Untitled.md",
+    "Machine Learning Engineering for Production (MLOps)/2 - Machine Learning Data Lifecycle in Production/Week 2 Feature Engineering, Transformation and Selection/Feature Engineering/Feature Engineering Techniques/Other Techniques.md",
+    "Machine Learning Engineering for Production (MLOps)/2 - Machine Learning Data Lifecycle in Production/Week 2 Feature Engineering, Transformation and Selection/Feature Engineering/Feature Engineering Techniques/Bucketizing - Binning.md",
+    "Machine Learning Engineering for Production (MLOps)/2 - Machine Learning Data Lifecycle in Production/Week 2 Feature Engineering, Transformation and Selection/Feature Engineering/Feature Engineering Techniques/Feature Engineering Techniques.md",
+    "Machine Learning Engineering for Production (MLOps)/2 - Machine Learning Data Lifecycle in Production/Week 2 Feature Engineering, Transformation and Selection/Feature Engineering/Feature Engineering Techniques/Standarization (Z-Score).md",
+    "Machine Learning Engineering for Production (MLOps)/2 - Machine Learning Data Lifecycle in Production/Week 2 Feature Engineering, Transformation and Selection/Feature Engineering/Feature Engineering Techniques/Normalization.md",
+    "Machine Learning Engineering for Production (MLOps)/2 - Machine Learning Data Lifecycle in Production/Week 2 Feature Engineering, Transformation and Selection/Feature Engineering/Feature Engineering Techniques/Scaling.md",
+    "Machine Learning Engineering for Production (MLOps)/2 - Machine Learning Data Lifecycle in Production/Week 2 Feature Engineering, Transformation and Selection/Feature Engineering/Feature Engineering Techniques",
+    "Machine Learning Engineering for Production (MLOps)/2 - Machine Learning Data Lifecycle in Production/Week 2 Feature Engineering, Transformation and Selection/Feature Engineering/Preprocessing Operations",
+    "Machine Learning Engineering for Production (MLOps)/2 - Machine Learning Data Lifecycle in Production/Week 2 Feature Engineering, Transformation and Selection/Feature Engineering/Introduction to Preprocessing",
+    "Machine Learning Engineering for Production (MLOps)/2 - Machine Learning Data Lifecycle in Production/Week 2 Feature Engineering, Transformation and Selection"
   ]
 }
