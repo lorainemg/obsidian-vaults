@@ -6,5 +6,7 @@
   "calendar",
   "obsidian-checklist-plugin",
   "cm-editor-syntax-highlight-obsidian",
-  "obsidian-git"
+  "obsidian-git",
+  "templater-obsidian",
+  "obsidian-markdown-formatting-assistant-plugin"
 ]

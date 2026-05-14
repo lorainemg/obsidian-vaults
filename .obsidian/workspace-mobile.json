@@ -1,0 +1,224 @@
+{
+  "main": {
+    "id": "22081be623941430",
+    "type": "split",
+    "children": [
+      {
+        "id": "fb22c027a1187f80",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "74bccb5f118bd4fe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SQL Data Science/01 - Etapas y Operaciones en el Ciclo de Vida de los Datos/Tareas de la Limpieza de Datos.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Tareas de la Limpieza de Datos"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a50ff0ad01c4b1f2",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "a95eb8d724f1669a",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": false
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
+        }
+      },
+      {
+        "id": "ecceafd3cbb42d23",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Search"
+        }
+      },
+      {
+        "id": "84f83f22b6bcd617",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
+        }
+      },
+      {
+        "id": "00b91e7d3e7fad6f",
+        "type": "leaf",
+        "state": {
+          "type": "all-properties",
+          "state": {
+            "sortOrder": "frequency",
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-archive",
+          "title": "All properties"
+        }
+      },
+      {
+        "id": "c56c1f80cc377544",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "54699e3f80ae3879",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "81723f15464e8dd4",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "SQL Data Science/01 - Etapas y Operaciones en el Ciclo de Vida de los Datos/Tareas de la Limpieza de Datos.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
+        }
+      },
+      {
+        "id": "3e888427ef087e20",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "SQL Data Science/01 - Etapas y Operaciones en el Ciclo de Vida de los Datos/Tareas de la Limpieza de Datos.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
+        }
+      },
+      {
+        "id": "018ad165a2e7d881",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "SQL Data Science/01 - Etapas y Operaciones en el Ciclo de Vida de los Datos/Tareas de la Limpieza de Datos.md",
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-list",
+          "title": "Outline"
+        }
+      },
+      {
+        "id": "4f32666ec3e26705",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {},
+          "icon": "calendar-with-checkmark",
+          "title": "Calendar"
+        }
+      },
+      {
+        "id": "f0404309f7279f9f",
+        "type": "leaf",
+        "state": {
+          "type": "todo",
+          "state": {},
+          "icon": "checkmark",
+          "title": "Todo List"
+        }
+      },
+      {
+        "id": "63a9c6f06e761af1",
+        "type": "leaf",
+        "state": {
+          "type": "side-panel-control-view",
+          "state": {},
+          "icon": "viewIcon",
+          "title": "Markdown-Autocomplete"
+        }
+      },
+      {
+        "id": "23bff1eb860d9557",
+        "type": "leaf",
+        "state": {
+          "type": "advanced-tables-toolbar",
+          "state": {},
+          "icon": "spreadsheet",
+          "title": "Advanced Tables"
+        }
+      }
+    ],
+    "currentTab": 6
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "random-note:Open random note": false,
+      "bases:Create new base": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
+    }
+  },
+  "active": "74bccb5f118bd4fe",
+  "lastOpenFiles": [
+    "SQL Data Science/01 - Etapas y Operaciones en el Ciclo de Vida de los Datos/Primer Paso para el Análisis de Datos.md",
+    "SQL Data Science/01 - Etapas y Operaciones en el Ciclo de Vida de los Datos/Tareas de la Limpieza de Datos.md",
+    "Untitled.canvas",
+    "SQL Data Science/05 - Otros Tipos de Datos/Datos en Forma de Grafos.md",
+    "Untitled 1.base",
+    "SQL Data Science/01 - Etapas y Operaciones en el Ciclo de Vida de los Datos/Actividades Realizadas en EDA.md",
+    "Untitled.base"
+  ]
+}

@@ -5,7 +5,7 @@ Topic: [[Otros Tipos de Datos]]
 
 ----
 
-Para representar los datos en formas de grafos en datasets SQL se crean dos tablas, una tabla nodo, y una tabla arista, que tiene dos llaves foráneas de tipo nodo, origen y destino. Un ejemplo genérico en SQL:
+Para representar los datos en formas de grafos en datasets SQL se crean dos tablas, una tabla nodo, y una tabla arista, que tiene dos llaves foráneas de tipo nodo, origen y destino. Un ejemplo genérico en SQL: test
 ```sql
 CREATE TABLE nodes (
 	id INTEGER PRIMARY KEY,
