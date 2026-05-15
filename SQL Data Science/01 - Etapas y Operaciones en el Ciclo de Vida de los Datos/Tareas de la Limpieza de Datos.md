@@ -9,7 +9,6 @@ Entre las tareas realizadas durante la limpieza de datos (*data cleaning*) se en
 - Encontrar y manejar los valores faltantes.
 - Encontrar y manejar **valores atípicos** (*outliers*)
 - Encontrar y manejar ***datos duplicados***
-Hrllo
 
 ## Referencias
 [[Actividades Realizadas en EDA]]
